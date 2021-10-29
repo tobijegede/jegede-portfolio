@@ -17,8 +17,6 @@ Here's some of the key components of my portfolio:
 
 [Government Debt](govdebtviz.md)
 
-Sample Graph:
-<div class="flourish-embed flourish-chart" data-src="visualisation/7642586"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # Storyboarding and Draft Ideas
 Here's the link to my page for where I created a storyboard and some draft ideas for my final project topic.
