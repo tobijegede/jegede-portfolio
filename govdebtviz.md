@@ -5,5 +5,5 @@
 
 
 #### United States Debt to GDP During Pandemic (2020)
-<iframe src="https://data.oecd.org/chart/6viO" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6viO" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
+<iframe src="https://data.oecd.org/chart/6viO" width="500" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6viO" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
