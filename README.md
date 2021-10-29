@@ -12,6 +12,11 @@ I am notoriously bad at visualizing data creatively and so, at a minimum, I want
 # Portfolio
 Here's some of the key components of my portfolio:
 
+
+### Sample Visualization #1: Visualization Government Debt
+
+[Government Debt](govdebtviz.md)
+
 Sample Graph:
 <div class="flourish-embed flourish-chart" data-src="visualisation/7642586"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
