@@ -13,7 +13,7 @@ I am notoriously bad at visualizing data creatively and so, at a minimum, I want
 Here's some of the key components of my portfolio:
 
 
-### Sample Visualization #1: Visualization Government Debt
+### Sample Visualization #1: Visualizing Government Debt
 
 [Government Debt](govdebtviz.md)
 
