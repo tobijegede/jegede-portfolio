@@ -13,7 +13,6 @@
 
 In the visualization below, each of the OECD is listed with a corresponding line graph. This line graph shows how that particular country's Debt to GDP Ratio has changed form 1995 to 2020. This visualization was composed with the help of **Flourish**.
 
-
 <div class="flourish-embed flourish-chart" data-src="visualisation/7667826"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
