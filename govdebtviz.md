@@ -9,3 +9,15 @@
 
 ### Comparison of OCED Countries Debt to GDP Ratio from 1995 to 2020
 
+#### Visualization 1
+
+In the visualization below, each of the OECD is listed with a corresponding line graph. This line graph shows how that particular country's Debt to GDP Ratio has changed form 1995 to 2020. This visualization was composed with the help of [Flourish](flourish.studio).
+
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7667826"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+#### Visualization 2
+
+The visualization below uses the same data as the previous three visualizations. The main difference is that I decided to use [insert here] type of chart instead. I used his visualizaiton method because [insert reason here].
+
