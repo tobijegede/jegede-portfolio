@@ -17,6 +17,10 @@ Here's some of the key components of my portfolio:
 
 [Government Debt](govdebtviz.md)
 
+### Assignment 3 & 4: Visualizing Livability for Black Women in Pittsburgh
+
+[Pittsburgh Livability]
+
 
 # Storyboarding and Draft Ideas
 Here's the link to my page for where I created a storyboard and some draft ideas for my final project topic.
