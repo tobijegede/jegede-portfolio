@@ -19,7 +19,7 @@ Here's some of the key components of my portfolio:
 
 ### Assignment 3 & 4: Visualizing Livability for Black Women in Pittsburgh
 
-[Pittsburgh Livability]
+[Pittsburgh Livability](blackinpittsburgh.md)
 
 
 # Storyboarding and Draft Ideas
