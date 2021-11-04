@@ -21,7 +21,16 @@ Here's are the health/maternal health outcomes visualizations provided in the or
 
 National Vital Statistics System.
 
-## Step 2: Critique the Visulization
+From the equity report that was released, fetal mortality is defined as: "Fetal death includes any spontaneous intrauterine death of a fetus at any time during pregnancy. In Pennsylvania, all pregnancies at least 16 weeks past gestation that end in a fetal death are recorded. This
+includes "stillbirths" or fetuses born 20 weeks after gestation who demonstrate no signs of life at birth.
+We calculated fetal mortality as the number of fetal deaths divided by the number of pregnancies within
+the year. We calculated pregnancies within the year as the total number of babies born plus the number
+of fetal deaths. In other words, pregnancies that end before 16 weeks after gestation are not included."
+
+**infant mortality**: We define the infant mortality rate as the number of babies under the age of one that pass away in a
+given year divided by the number of live births in that year.
+
+## Step 2: Critique the Visualization
 
 [insert the scaffolding of the critique from the google form here]
 
