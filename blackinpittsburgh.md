@@ -8,9 +8,13 @@ bid video that many residents in the city feel as though there is a "white Pitts
 For the purposes of this recretation, I focused on the health outcome disparties for black women in Pittsburgh, because this data all came from the same dataset, the National Vital Statistics System. The Bloomberg CityLab article that the following visualizations came from is this one: https://www.bloomberg.com/news/articles/2019-09-20/how-pittsburgh-fails-black-women-in-6-charts. 
 
 ### Original Visualizations
-Here's an example of the health/maternal health outcomes visualizations provided in the original report.
+Here's are the health/maternal health outcomes visualizations provided in the original report.
 
-![Image of College Completion](college_completion.png)
+![Image of Infant Mortality](infant_mort.png)
+
+
+![Image of Fetal Mortality](fetal_mort.png)
+
 
 
 ### Data Source Description
