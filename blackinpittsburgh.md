@@ -25,6 +25,9 @@ National Vital Statistics System.
 
 [insert the scaffolding of the critique from the google form here]
 
+In both of the above visualizations, I think their strength
+
+The double-edged sword of this simplicity is that it is a bit unclear on what scale the data is measured in as well as what exactly is being considered a "similar" city.
 
 
 ## Step 3: Wireframe a Solution
