@@ -33,6 +33,9 @@ given year divided by the number of live births in that year.
 
 ## Step 2: Critique the Visualization
 
+This visualization seems to suffer from the paradox of being so simple that it becomes unclear, similar to the "simple, unclear bar chart" from the Crafting for Clarity chapter of "Good Charts".
+
+
 [insert the scaffolding of the critique from the google form here]
 
 My initial reaction to the above visualization was that I was pleased by how the overall simplicity and minimalism of the deisgn. The use of the faint gray line also indicated immediately to be that there was some baseline or average from which a deviation in the data was being measured. Additionally, the visualization uses a simple diamond to point out Pittsburgh's position along the line, where it is compares to other similar sized cities.
