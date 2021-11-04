@@ -5,12 +5,12 @@
 I was inspired to recreate data on the livability index in Pittsburgh because it was something that I was taken aback by when I first moved to the city. Pittsburgh's outcomes for Black and White residents is drastically different, leading  Mayor Bill Peduto to acknowledge in his 2020 Mayoral 
 bid video that many residents in the city feel as though there is a "white Pittsburgh" and a "black Pittsburgh" [^1]. Pittsburgh is a city of stark constrasts -- the city has repeatedly been listed on "Most Livable Cities" lists while there have also been articles noted that the life characteristics of **black women** would change drastically by *just* picking up and leaving Pittsburgh for greener pastures [^2]. The City of Pittsburgh's Gender Equity Commitee Released a report in September of 2019 highlighting this "livability" divide further across dimensions such as health outcomes, educational outomces, and career outcomes. [^3]
 
-For the purposes of this recretation, I focused on the health outcome disparties for black women in Pittsburgh, because this data all came from the same dataset, the National Vital Statistics System.
+For the purposes of this recretation, I focused on the health outcome disparties for black women in Pittsburgh, because this data all came from the same dataset, the National Vital Statistics System. The Bloomberg CityLab article that the following visualizations came from is this one: https://www.bloomberg.com/news/articles/2019-09-20/how-pittsburgh-fails-black-women-in-6-charts. 
 
 ### Original Visualizations
 Here's an example of the health/maternal health outcomes visualizations provided in the original report.
 
-![Image of College Completion]
+![Image of College Completion](college_completion.png)
 
 
 ### Data Source Description
