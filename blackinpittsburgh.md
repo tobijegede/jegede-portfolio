@@ -8,7 +8,7 @@ bid video that many residents in the city feel as though there is a "white Pitts
 For the purposes of this recretation, I focused on the health outcome disparties for black women in Pittsburgh, because this data all came from the same dataset, the National Vital Statistics System. The Bloomberg CityLab article that the following visualizations came from is this one: https://www.bloomberg.com/news/articles/2019-09-20/how-pittsburgh-fails-black-women-in-6-charts. 
 
 ### Original Visualizations
-Here is the original infant mortality rate visualization from the Bloomberg CityLab article. The title of the visualization is "Infant mortality rate, Pittsburgh vs peer cities". 
+Here is the original infant mortality rate visualization from the Bloomberg CityLab article. The title of the visualization is "Infant mortality rate, Pittsburgh vs peer cities". From the original report associated with the visualization, there were "89 cities of similar size and characteristics nationwide" that were used as the unit of comparison.
 
 
 ![Image of Infant Mortality](infant_mort.png)
@@ -59,8 +59,15 @@ The double-edged sword of this simplicity is that it is a bit unclear on what sc
 
 This visualization seems to suffer from the paradox of being so simple that it becomes unclear, similar to the "simple, unclear bar chart" from the Crafting for Clarity chapter of "Good Charts".
 
+It is also unclear what year the data displayed is from, as it is not listed in the title of the chart nor is it clearly highlighted in the related article. It is assumed that the  data is from 2019, given that this was the year in which the newspaper article was written.
+
 
 ### Question 2: Who is the primary audience for this tool? Do you think this visualization is effective for reaching that audience? Why or why not? *
+
+The primary audience for this tool is likely Pittsburgh residents who are not already aware of the disparties that exist in the city. Generally, I think this visualization is effective at reaching the audience because it presents the diff
+
+
+
 
 
 
