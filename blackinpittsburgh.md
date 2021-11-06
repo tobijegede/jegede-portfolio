@@ -28,7 +28,7 @@ The equity report defines infant mortality in the following way:
 given year divided by the number of live births in that year.
 
 
-
+To access the data, I visited the following website: https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm and downloaded the 2019 birth files data
 
 
 ## Step 2: Critique the Visualization
