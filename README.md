@@ -17,9 +17,9 @@ Here's some of the key components of my portfolio:
 
 [Government Debt](govdebtviz.md)
 
-### Assignment 3 & 4: Visualizing Livability for Black Women in Pittsburgh
+### Assignment 3 & 4: Public Transit Ridership Changes During the COVID-19 Pandemic
 
-[Pittsburgh Livability](blackinpittsburgh.md)
+[Public Transit Ridership Before, During, and After COVID-19 Pandemic](transitviz.md)
 
 
 # Storyboarding and Draft Ideas
