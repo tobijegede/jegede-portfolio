@@ -98,6 +98,13 @@ I think I might also add a more granular measure for "layout intuitiveness", mea
 
 ## Step 3: Wireframe a Solution
 
+Key factors from the critique that informed the re-design process:
+
+1. Ability to do inter-city comparisons in one graph
+2. Descreasing the amount of color used (trying to eliminating the "wall of color" that results from using a bar chart for time-series trends
+3. Making the distinction between pre and post pandemic much clearer
+4. Making intentional use of the x-axis of the graph (i.e. strategic selection of dates and points of time of interest)
+
 
 ## Step 4: Test the Solution
 
