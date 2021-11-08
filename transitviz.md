@@ -32,7 +32,7 @@ To access the data required to create these visualizations, I visited the follow
 ## Step 2: Critique the Visualization
 
 
-<u>**Usefulness**</u>:
+**Usefulness**:
 
 I would give this visualization an overall usefulness score of 8. I think it simply communicates valuable information about public transit ridership. Specifically, it communicates that the pandemic has caused a decline in public transit ridership and that public transit ridership numbers have yet to return to their pre-pandemic numbers. 
 
