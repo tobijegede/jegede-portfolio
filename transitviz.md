@@ -137,7 +137,16 @@ Things to change for the final:
 
 ## Step 5: Build Your Solution (Voila!)
 
-Initially, I wanted to have all of the cities together in one graph but realized, in the wireframing stage, that because New York has far more public transit users than the rest of the cities highlighted, the trends in these smaller cities would be less clear if they were all included in the same graph. 
+Initially, I wanted to have all of the cities together in one graph but realized, in the wireframing stage, that because New York has far more public transit users than the rest of the cities highlighted, the trends in these smaller cities would be less clear if they were all included in the same graph. Therefore, I have two visualizations for my final solution.
+
+### Visualization #1: Ridership Trends in NYC
+
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7760706"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+### Visualization #2: Ridership Trends in Mid-Sized Cities
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7761500"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 
