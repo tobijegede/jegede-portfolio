@@ -98,9 +98,9 @@ I think I might also add a more granular measure for "layout intuitiveness", mea
 
 ## Step 3: Wireframe a Solution
 
-![NYC Wire](nyc_wire_2.JPG)
+![NYC Wire](nyc_wire_2.jpg)
 
-![Mid-Size Metro Wire](midsize_wire_2.JPG)
+![Mid-Size Metro Wire](midsize_wire_2.jpg)
 
 
 Key factors from the critique that informed the re-design process:
