@@ -119,7 +119,7 @@ The **first** person who I asked for feedback noted the following things about t
 - It is clear to see that the overall trend displayed is showing how transit ridership declined during the pandemic
 - The reference lines were useful to contextualize the information presented. It seemed like the ridership increase that we observe towards the end of the graph is likely because of the availability of vaccines. "I would not have otherwise known why I was seeing the upward trend at the end. I wasn't aware that the vaccines were released as early as December 2020".
 - Having inter-city comparisons is useful context to help understand how common or uncommon the ridership trends are 
-- 
+ 
 
 
 The **second** person who provided feedback provided the following notes:
