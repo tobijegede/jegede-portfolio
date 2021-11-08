@@ -122,7 +122,8 @@ The **first** person who I asked for feedback noted the following things about t
  
 
 
-The **second** person who provided feedback provided the following notes:
+The **second** and **third** person who provided feedback provided the following notes:
+
 -
 
 
