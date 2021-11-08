@@ -98,11 +98,6 @@ I think I might also add a more granular measure for "layout intuitiveness", mea
 
 ## Step 3: Wireframe a Solution
 
-![NYC Wire](nyc_wire_2.jpg)
-
-![Mid-Size Metro Wire](midsize_wire_2.jpg)
-
-
 Key factors from the critique that informed the re-design process:
 
 1. Ability to do inter-city comparisons in one graph
@@ -111,12 +106,38 @@ Key factors from the critique that informed the re-design process:
 4. Making intentional use of the x-axis of the graph (i.e. strategic selection of dates and points of time of interest)
 
 
+![NYC Wire](nyc_wire_2.jpg)
+
+![Mid-Size Metro Wire](midsize_wire_2.jpg)
+
+
+
+
 ## Step 4: Test the Solution
 
+The **first** person who I asked for feedback noted the following things about the sketches above:
+- It is clear to see that the overall trend displayed is showing how transit ridership declined during the pandemic
+- The reference lines were useful to contextualize the information presented. It seemed like the ridership increase that we observe towards the end of the graph is likely because of the availability of vaccines. "I would not have otherwise known why I was seeing the upward trend at the end. I wasn't aware that the vaccines were released as early as December 2020".
+- Having inter-city comparisons is useful context to help understand how common or uncommon the ridership trends are 
+- 
+
+
+The **second** person who provided feedback provided the following notes:
+-
+
+
+
+
+The similarities that emerged were:
+The differences that emerged were:
+The patterns that emerged were:
+
+Things to change for the final:
+- One observation that was interesting to me is that by providing the time refernece lines, the interpretation of the original intention seems to have changed. Particuarly, the first reviewer of the sketch noted that it seemed like the graph was showing how the vaccine availability changed public transit ridership behaviors, when the original graph was focused on interrogating the question of whether ridership numbers had returned to their pre-pandemic levels. By including teh reference lines there seems to be a change in the purpose of the graph from showing an overall trend to providing a causal claim about why the trend appears.
 
 ## Step 5: Build Your Solution (Voila!)
 
-
+Initially, I wanted to have all of the cities together in one graph but realized, in the wireframing stage, that because New York has far more public transit users than the rest of the cities highlighted, the trends in these smaller cities would be less clear if they were all included in the same graph. 
 
 
 
