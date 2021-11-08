@@ -118,23 +118,30 @@ Key factors from the critique that informed the re-design process:
 The **first** person who I asked for feedback noted the following things about the sketches above:
 - It is clear to see that the overall trend displayed is showing how transit ridership declined during the pandemic
 - The reference lines were useful to contextualize the information presented. It seemed like the ridership increase that we observe towards the end of the graph is likely because of the availability of vaccines. "I would not have otherwise known why I was seeing the upward trend at the end. I wasn't aware that the vaccines were released as early as December 2020".
-- Having inter-city comparisons is useful context to help understand how common or uncommon the ridership trends are 
+- Having inter-city comparisons is useful context to help understand how common or uncommon the ridership trends are across the country
  
-
 
 The **second** and **third** person who provided feedback provided the following notes:
 
--
+- The sketch shows a trend that is straightforward and therefore is generalizable enough that it can be useful for a general public or for specialist audiences who have more advanced knowledge about public transit.
+- It seems like this graph would able to be used by a news organization because of how straightforward it is. (I did not tell either of these indivduals that the original visualization that is being redesign came from a news organization
+- I would like to see more points in time during the pandemic to understand how the ridership numbers changed in relation to peaks and troughs in COVID-19 infection, in addition to the reference lines provided.
+- "My eye was initially drawn to the "Los Angeles line in the graph because it is the highest line on the graph, which makes it seem as though the trends shown in the graph for Los Angeles are more extreme than the trends for the remaining cities. Because of this, I think having information about relative percentages changes in ridership trends may help in being able to make more accurate comparisons between the cities in the graph"
 
 
+The similaritie(s) that emerged were:
+- All of those who examined my visualization were very quickly able to determine what was being dispayed. So, my design appeared to be clear to those I shared my design with.
+- All of those who examiend my visualization also agreed that the reference lines added a degree of usefulness to the graph bby adding a new dimension of explanation to the graph that would not have otherwise existed.
+- The readers also agreed that being able to compare ridership changes between cities was important and threfore apprecaiate that this information was present in my design.
 
 
-The similarities that emerged were:
-The differences that emerged were:
-The patterns that emerged were:
+The difference(s) that emerged were:
+- The key differnece between my sets of reviewers is that the first reviewer was okay with the graph just showing the raw numbers of the transit riders as the unit of comparison while the second set of reviewers advised that they would like to see percentage changes so that the changes over time don't appear to be unduly biased by the size of that particular city's public transit infrastructure to begin with.
+
 
 Things to change for the final:
-- One observation that was interesting to me is that by providing the time refernece lines, the interpretation of the original intention seems to have changed. Particuarly, the first reviewer of the sketch noted that it seemed like the graph was showing how the vaccine availability changed public transit ridership behaviors, when the original graph was focused on interrogating the question of whether ridership numbers had returned to their pre-pandemic levels. By including teh reference lines there seems to be a change in the purpose of the graph from showing an overall trend to providing a causal claim about why the trend appears.
+- One observation that was interesting to me is that by providing the time refernece lines, the interpretation of the original intention seems to have changed. Particuarly, the first reviewer of the sketch noted that it seemed like the graph was showing how the vaccine availability changed public transit ridership behaviors, when the original graph was focused on interrogating the question of whether ridership numbers had returned to their pre-pandemic levels. By including the reference lines there seems to be a change in the purpose of the graph from showing an overall trend to providing a causal claim about why the trend appears. I will still keep the reference lines, because it does appear to be heplful, and allows for mutiple takeaways from the grph -- both that transit ridership levels have onot returned totheir pre-pandemic levels and that the events dispalyed may have had an effect on these ridership numbers.
+- In response to the feedback from reviewers two and three on having relative percent change information, I decided to create a third visualization that looked at the percentage change over time for the mid-sized cities. This would allow the viewers to **both** have information on the overall numbers and the percent change over time. The one difficulty in creating this third visualization though is deciding what reference point to start with. Should I examine the percentage change from pre-pandemic to present day or the percent change in ridership from the previous month?
 
 ## Step 5: Build Your Solution (Voila!)
 
