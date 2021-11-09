@@ -148,12 +148,16 @@ Things to change for the final:
 
 ## Step 5: Build Your Solution (Voila!)
 
-Taking all of the insight gained from the critique and from feedback to my wireframing, here's my final visualization.
+Taking all of the insight gained from the critique and from feedback to my wireframing, here's my final visualization. 
 
 ### Final Visualization:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7769283"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
+### Reflection
+
+One of the difficult things in creating this final visualization was deciding how to reduce the number of colors of the graph. I ultimately settled on doing a comparison of inland vs costal cities, rather than having a different color for each of the cities. 
 
 ### References
 
