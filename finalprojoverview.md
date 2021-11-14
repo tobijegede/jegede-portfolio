@@ -30,7 +30,8 @@ At a minimum, you should include the following:
 
 The data sources I intend to use are the following:
 1. Google Trends Data
-2. NIJ Recidivism Data
+2. NIJ Recidivism Data -- The National Institutes of Justice had a Recidivsm Forecasting Challenge that they ran, with the goal of 
+   This data would be used to walk the user through the dangers of black-box algorithms that determine their life. Essentially, I would want to build a model that spits out a prediction for two similar individuals (who may differ on income and race) and how the model will predict two different outcomes for these individuals. Something like "with this black box model, you don't know why these decisions were made" -- and how can we uncover this mystery.
 
 
 
