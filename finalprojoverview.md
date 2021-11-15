@@ -34,8 +34,8 @@ Here's a view of the major elements of my story:
 <u> Pivotal Visualizations for Story Progression </u>
 
 1. Top 10 University Endowments (2018), Private Vs Public
-2. Percent Change in Growth of Endowments Over Time, Since 2000
-3. Top 10 Universities Endowments As a Multiple of [insert country here's] GDP (Interactive Component)
+2. Percent Change in Growth of Endowments Over Time Since 2000, Private Vs Public
+3. Top 10 Universities Endowments As a Multiple of Rwanda's GDP (For this, I just chose an example comparison country so this may differ in the final version. I also envision that users can change the university that they are viewing interactively & all of the information displayed would be in the context of the initial country)
 4. Relative Endowments Per Student, Private Vs Public
 
 
