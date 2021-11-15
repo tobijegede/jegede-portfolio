@@ -34,11 +34,20 @@ Here's a view of the major elements of my story:
 <u> Pivotal Visualizations for Story Progression </u>
 
 1. Top 10 University Endowments (2018), Private Vs Public
-2. Growth of Endowments Over Time, Private Vs Public
+2. Percent Change in Growth of Endowments Over Time, Since 2000
 3. Top 10 Universities Endowments As a Multiple of [insert country here's] GDP (Interactive Component)
 4. Relative Endowments Per Student, Private Vs Public
-5. Pie Charts of How Endowments Are Spent, Private Vs Public
-6. Map of Top 10 University Locations and the Median Income
+
+
+The initial sketches for the four above chart descriptions are below:
+![Sketches 1](initial_sketches_1.jpg)
+
+
+
+
+
+6. Pie Charts of How Endowments Are Spent, Private Vs Public
+7. Map of Top 10 University Locations and the Median Income
 
 
 <u> Sketch of Story Arc </u>
