@@ -1,22 +1,26 @@
-## Overview of Project
-
-Goal for this summary section:
-- At a minimum, you should include the following: 
+## Overview of Project - "Don't Give Money to Your Alma Mater"
 
 - A high-level summary of your project.  This should be a sentence or two that describes what you're interested in showing with your final project.
 - A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  
 -------------------------
-The purpose of this project is to highlight the rapid growth of the endowments of the top 20 universities in the United States over the past decade and to emphasize how little of that money is actually used to benefit individual students and campus. Inspiration for this visual exploration of these inequities was gained from reading a WBUR article on inequities in college donations.[^1] Additionally, I want to make sure to highlight how these well-endowed universities grew, in some cases, at the expense of the communities in which they reside and that the money given for university endowments is typically untaxable and allowed to grow exponentially larger year or over year, even during the pandemic. Ultimtely, my call to action will be something like "Don't give money to your alma mater (if you attended a top 20 university in the US). Give to a worthier cause instead." 
+The purpose of this project is to highlight the rapid growth of the endowments of the top 20 universities in the United States over the past decade and to emphasize how little of that money is actually used to benefit individual students and campus. Inspiration for this visual exploration of these inequities was gained from reading a WBUR article on inequities in college donations.[^1] Additionally, I want to make sure to highlight how these well-endowed universities grew, in some cases, at the expense of the communities in which they reside and that the money given for university endowments is typically untaxable and allowed to grow exponentially larger year or over year, even during the pandemic. Ultimtely, my call to action will be something like "Don't give money to your alma mater (if you attended a top 20 university in the US). Give to a worthier cause instead." In summary, Throughout my project, I want to explore what endowments are, how they are used, how they are marketed, and some action items readers can take after this. 
+
+
 
 Here's a view of the major elements of my story:
 
+1. Introduce the concept of an **endowment**, with a hook like the following:
+ - "If you're like me, you might receive  emails, physical mail, and annual calls from your undergraduate institution asking you to donate money. The pleas are made in earnest and emphasize how much your donation of $20 or more can help bring about meaningful change on your campus and assist future students. Something that has always confused me is why my university, who's annual endowment is more than $20 billion dollars, needs money from me. I also question, should I be giving money to an institution that already has so much?"  
 
+2. Provide A Definition of an Endowment &  Highlight General Trends in Endowments Over the Last Decade
+ - 
 
 Idea #2: Don't Give Money to Your Alma Mater
 
 Exposing high Education Endowment Sizes and How Elite Universities negatively impact the communities around them
 
-If you're like me, you might receive constant emails, physical mail, and annual calls from your undergraduate institution asking you to donate money. The pleas are made in earnest and emphasize how much your donation fo $20 or more can help bring about meaningful change on your campus and assist future students. But, how true is this? Throughout my project, I want to explore what endowments are, how they are used, how they are marketed, and some action items readers can take after this. (1. stop donating to your undergrad institution if their endowment is over a certain size, 2. engage in local activism movements to encourage local senators to give money to state colleges, 3. Find other worthy causes that allow you to donate directly to individuals instead of to massive corporations.)
+
+(1. stop donating to your undergrad institution if their endowment is over a certain size, 2. engage in local activism movements to encourage local senators to give money to state colleges, 3. Find other worthy causes that allow you to donate directly to individuals instead of to massive corporations.)
 
 
 Top 20 universities in the US (according to US News and World Report 2022 - https://www.usnews.com/best-colleges/rankings/national-universities): Princeton, Columbia, Harvard, MIT, Yale, Stanford, UChicago, UPenn, Caltech, Duke, Johns Hopkins, Northwestern, Dartmouth, Brown, Vanderbilt, WUSTL, Cornell, Rice, Notre Dame, UCLA
