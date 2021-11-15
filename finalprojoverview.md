@@ -15,6 +15,9 @@ Exposing high Education Endowment Sizes and How Elite Universities negatively im
 If you're like me, you might receive constant emails, physical mail, and annual calls from your undergraduate institution asking you to donate money. The pleas are made in earnest and emphasize how much your donation fo $20 or more can help bring about meaningful change on your campus and assist future students. But, how true is this? Throughout my project, I want to explore what endowments are, how they are used, how they are marketed, and some action items readers can take after this. (1. stop donating to your undergrad institution if their endowment is over a certain size, 2. engage in local activism movements to encourage local senators to give money to state colleges, 3. Find other worthy causes that allow you to donate directly to individuals instead of to massive corporations.)
 
 
+Top 20 universities in the US (according to US News and World Report 2022 - https://www.usnews.com/best-colleges/rankings/national-universities): Princeton, Columbia, Harvard, MIT, Yale, Stanford, UChicago, UPenn, Caltech, Duke, Johns Hopkins, Northwestern, Dartmouth, Brown, Vanderbilt, WUSTL, Cornell, Rice, Notre Dame, UCLA
+
+
 
 Give Your Donation money to those who actually deserve it! 
 
@@ -40,6 +43,7 @@ In addition to not spending money how they say they should,
 There is also a link between the vast explosion of university and gentrification in the areas that they sit in
 
 (A map of universities and the changing median income in the areas surrounding those areas (and perhaps also a map of the racial composition) changing over 20 years
+- gentrification (https://www.rentcafe.com/blog/rental-market/real-estate-news/top-20-gentrified-zip-codes/) 
 
 
 https://www.wbur.org/cognoscenti/2019/05/07/college-donation-inequality-sylvia-brown-ayele-shakur 
