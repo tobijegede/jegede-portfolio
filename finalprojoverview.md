@@ -6,7 +6,9 @@ Goal for this summary section:
 - A high-level summary of your project.  This should be a sentence or two that describes what you're interested in showing with your final project.
 - A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  
 -------------------------
-Idea #1: The purpose of this project is to highlight the how large the endowments of the top 20 universities in the United States have gotten and how most of that money has not been used for the purpose 
+Idea #1: The purpose of this project is to highlight the growth of the endowments of the top 20 universities in the United States and how to highlight how little of that money is actually used to benefit individual students and campus. Inspiration for this visual exploration of these inequities was gained from reading a WBUR article on inequities in college donations.[^1]
+
+how large the endowments of the top 20 universities in the United States have gotten and how most of that money has not been used for the purpose 
 
 
 -highlight that endowments are largely untaxable funds of money for the university. 
@@ -41,7 +43,7 @@ There is also a link between the vast explosion of university and gentrification
 (A map of universities and the changing median income in the areas surrounding those areas (and perhaps also a map of the racial composition) changing over 20 years
 
 
-https://www.wbur.org/cognoscenti/2019/05/07/college-donation-inequality-sylvia-brown-ayele-shakur 
+
 
 
 ## Initial Sketches 
@@ -88,3 +90,7 @@ In a few paragraphs, you should document how you plan on completing your final p
 
 
 I plan on using Shorthand as my implementation strategy for this project.
+
+
+## References
+[^1]: WBUR article about College Donation Inequity & Endowments https://www.wbur.org/cognoscenti/2019/05/07/college-donation-inequality-sylvia-brown-ayele-shakur 
