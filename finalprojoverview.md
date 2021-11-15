@@ -49,7 +49,10 @@ I want to start my data visualization website with an explanation of what an end
 
 
 
-<u> Sketches of Story Arc </u>
+<u> Sketch of Story Arc </u>
+
+![Story Progression](story_progression.jpg)
+
 
 
 ## Data Sources
