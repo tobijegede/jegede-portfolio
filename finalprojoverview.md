@@ -6,7 +6,11 @@ Goal for this summary section:
 - A high-level summary of your project.  This should be a sentence or two that describes what you're interested in showing with your final project.
 - A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  
 -------------------------
-Idea #1: The purpose of this project is to highlight the issue of algorithmic bias and how it impacts our daily lives and high-stakes arenas. The initial story arc that we developed in class is copied below in the next section to give an idea of the general mood that I expect readers to be in when they view my resulting website. I want to use a recidivism algorithm that already exists (the National Institutes of Justice (NIJ) recidivism challenge dataset) as a way of understanding the issues that arise with using blackbox algorithms to implement structural change and to use in high-stakes decision making processes. 
+Idea #1: The purpose of this project is to highlight the how large the endowments of the top 20 universities in the United States have gotten and how most of that money has not been used for the purpose 
+
+
+-highlight that endowments are largely untaxable funds of money for the university. 
+Despite these large endowments and the potential to give back to their local communities 
 
 Idea #2: Don't Give Money to Your Alma Mater
 
@@ -16,9 +20,6 @@ If you're like me, you might receive constant emails, physical mail, and annual 
 
 
 Top 20 universities in the US (according to US News and World Report 2022 - https://www.usnews.com/best-colleges/rankings/national-universities): Princeton, Columbia, Harvard, MIT, Yale, Stanford, UChicago, UPenn, Caltech, Duke, Johns Hopkins, Northwestern, Dartmouth, Brown, Vanderbilt, WUSTL, Cornell, Rice, Notre Dame, UCLA
-
-
-Endowment Data (from 2011 to 2018): https://nces.ed.gov/ipeds/Search?query=endowment&query2=endowment&resultType=all&page=1&sortBy=relevance&overlayDigestTableId=200947
 
 
 Give Your Donation money to those who actually deserve it! 
@@ -33,20 +34,11 @@ If you attended the top 20 schools in the US
 If you went to the 
 
 
-1. Size of the endowments at the top 20 schools
-2. A graph of endowment per student population
-3. Endowment to local area revenue comparison
-4. Growth in endowment size over time
-5. Data on what endowments are spent on
-6. Private vs public schools and spending per student
-7. Comparison of the size of the top 3 schools endowments and compare this to the GDP of various countries.
 
 In addition to not spending money how they say they should, 
 There is also a link between the vast explosion of university and gentrification in the areas that they sit in
 
 (A map of universities and the changing median income in the areas surrounding those areas (and perhaps also a map of the racial composition) changing over 20 years
-- gentrification (https://www.rentcafe.com/blog/rental-market/real-estate-news/top-20-gentrified-zip-codes/) -- will need to pull Census ACS data for this (and historical median household income, etc.)
-- country GDP data for comparisons, collected from the World Bank https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2020&start=1960&view=chart and uploaded as "historical_gdp_gobal.csv" file on this github repo.
 
 
 https://www.wbur.org/cognoscenti/2019/05/07/college-donation-inequality-sylvia-brown-ayele-shakur 
@@ -55,6 +47,17 @@ https://www.wbur.org/cognoscenti/2019/05/07/college-donation-inequality-sylvia-b
 ## Initial Sketches 
 
 <u> Initial Story Progression </u>
+
+I want to start my data visualization website with an explanation of what an endowment is and some news highlights about the largest
+
+
+1. Size of the endowments at the top 20 schools
+2. A graph of endowment per student population
+3. Endowment to local area revenue comparison
+4. Growth in endowment size over time
+5. Data on what endowments are spent on
+6. Private vs public schools and spending per student
+7. Comparison of the size of the top 3 schools endowments and compare this to the GDP of various countries.
 
 
 
@@ -73,10 +76,9 @@ At a minimum, you should include the following:
 ----------------------------
 
 The data sources I intend to use are the following:
-1. Google Trends Data
-2. NIJ Recidivism Data -- The National Institutes of Justice had a Recidivsm Forecasting Challenge that they ran, with the goal of 
-   This data would be used to walk the user through the dangers of black-box algorithms that determine their life. Essentially, I would want to build a model that spits out a prediction for two similar individuals (who may differ on income and race) and how the model will predict two different outcomes for these individuals. Something like "with this black box model, you don't know why these decisions were made" -- and how can we uncover this mystery.
-
+1. **Endowment Data:** This data comes from the National Center for Education Statistics (NCES) and is available for the period from 2011 to 2018. The datasets can be accessed at the following link: https://nces.ed.gov/ipeds/Search?query=endowment&query2=endowment&resultType=all&page=1&sortBy=relevance&overlayDigestTableId=200947
+2. **Global GDP Data:** country GDP data for comparisons, collected from the World Bank https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2020&start=1960&view=chart and uploaded as "historical_gdp_gobal.csv" file on this github repo.
+3. **Potential Dataset on Gentrification:** This website has some scrapable data potentially but will also likely need to get into the backend of this data by going directly to the Census ACS data.  (https://www.rentcafe.com/blog/rental-market/real-estate-news/top-20-gentrified-zip-codes/) -- will need to pull Census ACS data for this (and historical median household income, etc.)
 
 
 
