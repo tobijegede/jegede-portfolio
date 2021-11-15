@@ -31,9 +31,9 @@ Here's a view of the major elements of my story:
 
 ## Initial Sketches 
 
-<u> Initial Story Progression </u>
+<u> Pivotal Visualizations for Story Progression </u>
 
-1.Top 10 University Endowments (2018), Private Vs Public
+1. Top 10 University Endowments (2018), Private Vs Public
 2. Growth of Endowments Over Time, Private Vs Public
 3. Top 10 Universities Endowments As a Multiple of [insert country here's] GDP (Interactive Component)
 4. Relative Endowments Per Student, Private Vs Public
