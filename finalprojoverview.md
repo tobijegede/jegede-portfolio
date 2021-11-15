@@ -6,13 +6,17 @@ Goal for this summary section:
 - A high-level summary of your project.  This should be a sentence or two that describes what you're interested in showing with your final project.
 - A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  
 -------------------------
-The purpose of this project is to highlight the issue of algorithmic bias and how it impacts our daily lives and high-stakes arenas. The initial story arc that we developed in class is copied below in the next section to give an idea of the general mood that I expect readers to be in when they view my resulting website. I want to use a recidivism algorithm that already exists (the National Institutes of Justice (NIJ) recidivism challenge dataset) as a way of understanding the issues that arise with using blackbox algorithms to implement structural change and to use in high-stakes decision making processes. 
+Idea #1: The purpose of this project is to highlight the issue of algorithmic bias and how it impacts our daily lives and high-stakes arenas. The initial story arc that we developed in class is copied below in the next section to give an idea of the general mood that I expect readers to be in when they view my resulting website. I want to use a recidivism algorithm that already exists (the National Institutes of Justice (NIJ) recidivism challenge dataset) as a way of understanding the issues that arise with using blackbox algorithms to implement structural change and to use in high-stakes decision making processes. 
+
+Idea #2: Exposing high Education Endowment Sizes and How Elite Universities negatively impact the communities around them
+
+If you're like me, you might receive constant emails, physical mail, and annual calls from your undergraduate institution asking you to donate money. The pleas are made in earnest and emphasize how much your donation fo $20 or more can help bring about meaningful change on your campus and assist future students. But, how true is this? Throughout my project, I want to explore what endowments are, how they are used, how they are marketed, and some action items readers can take after this. (1. stop donating to your undergrad institution if their endowment is over a certain size, 2. engage in local activism movements to encourage local senators to give money to state colleges, 3. Find other worthy causes that allow you to donate directly to individuals instead of to massive corporations.)
 
 ## Initial Sketches 
 
 <u> Initial Story Progression </u>
 
-![Story Progression](story_progression.jpg)
+
 
 <u> Sketches of Story Arc </u>
 
