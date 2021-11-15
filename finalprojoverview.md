@@ -3,7 +3,6 @@
 The purpose of this project is to highlight the rapid growth of the endowments of the top 20 universities in the United States over the past decade and to emphasize how little of that money is actually used to benefit individual students and campus. Inspiration for this visual exploration of these inequities was gained from reading a WBUR article on inequities in college donations.[^1] Additionally, I want to make sure to highlight how these well-endowed universities grew, in some cases, at the expense of the communities in which they reside and that the money given for university endowments is typically untaxable and allowed to grow exponentially larger year or over year, even during the pandemic. Ultimtely, my call to action will be something like "Don't give money to your alma mater (if you attended a top 20 university in the US). Give to a worthier cause instead." In summary, Throughout my project, I want to explore what endowments are, how they are used, how they are marketed, and some action items readers can take after this. 
 
 
-
 Here's a view of the major elements of my story:
 
 1. Introduce the concept of an **endowment**, with a hook something like the following:
@@ -11,20 +10,18 @@ Here's a view of the major elements of my story:
 
 2. Provide A Definition of an Endowment &  Highlight General Trends in Endowments Over the Last Decade
  - In this section, I want to provide information about these key trends (see below in the intial sketches section for inital renderings of how these trends could be displayed)
-    - Top 10 University Endowments, as of 2018 (this is the latest date of the data publically avaiable from the National Center for Education Statistics)
-    - The Growth of Endowments Over Time At the Top
+    - Top 5 or 10 Public Vs Top 5 or 10  Prviate School Endowments Comparison (as of 2018 (this is the latest date of the data publically avaiable from the National Center for Education Statistics)
+       -  Could  get the top 5/top10 public and private school informtion from US News and World Report (https://www.usnews.com/best-colleges/rankings/national-universities) 
+    - The Growth of Endowments Over Time At the Top 5 Private Universities and the Top 5 Public Universities 
     - Endowment per Student 
-        - (want to highlight that universities that serve many students (public universities) don't have the ability to serve their students, the way that private insitutitions are able to -- having this information in conjunction with racial & social demographic information and differences between private and public institutions) 
-        - Public Institutitons are much better at moving low-income students to upper income brackets than the top 10 private insitutions would even be able to do. If we are supposed to view higher education as a well to create equal financial footing, we should focus our attention away from private universities who thrive on exclusivity and instead divert our funds to local colleges and universities that do a much better job of elevating students in need.[^2]
-    - Top 5 or 10 Public Vs Top 5 or 10  Prviate School Endowments Comparison
-       -  Could  get the top 5/top10 public and private school informtion from US News and World Report. Top 20 universities in the US (according to US News and World Report 2022 - https://www.usnews.com/best-colleges/rankings/national-universities): Princeton, Columbia, Harvard, MIT, Yale, Stanford, UChicago, UPenn, Caltech, Duke, Johns Hopkins, Northwestern, Dartmouth, Brown, Vanderbilt, WUSTL, Cornell, Rice, Notre Dame, UCLA.  
-
-
+        - With this information, I want to highlight that universities that serve many students (public universities) don't have the ability to serve their students the way that private insitutitions are able to because of a lack of state funding and endowment-based funding. I would want to present this information in conjunction with racial & social demographic information and differences between private and public institutions. 
+        - Additionally, other research has shown that public institutitons are much better at moving low-income students to upper income brackets than the top 10 private insitutions are able. If we are supposed to view higher education as a well to create equal financial footing, we should focus our attention away from private universities who thrive on exclusivity and instead divert our funds to local colleges and universities that do a much better job of elevating students in need.[^2]
+    
 3. Contextualizing The Sheer Size of The Endowments of the Top 5/10 Private Universities
 - Visualiations would be provided on the following arenas:
      -  Top 10 Universities Endowments As a Multiple of [insert country here's] GDP
          > This could be an interactive module that allows you select a given university and both maps this data using a flag as a packground image for the visualization. An example result would be: "Harvard's endowment is twice the size of Zambia's GDP, a country with a population of approximately 18 million"
-     - How Endowments are Spent (this has been a little hard to find information about but will continue to dig further on this issue) 
+     - How Endowments are Spent, Public vs Private Schools
 4. Why Do Large Endowments Matter?
    - In this section, I want to highlight how endowments and wealth institutions in general can end being a problem for the cities that they reside in. I would want to do create a map that shows the endowment size of universities relative to the median income of the neighborhoods or zip codes in which they reside.
 
@@ -36,17 +33,12 @@ Here's a view of the major elements of my story:
 
 <u> Initial Story Progression </u>
 
-I want to start my data visualization website with an explanation of what an endowment is and some news highlights about the largest
-
-
-1. Size of the endowments at the top 20 schools
-2. A graph of endowment per student population
-3. Endowment to local area revenue comparison
-4. Growth in endowment size over time
-5. Data on what endowments are spent on
-6. Private vs public schools and spending per student
-7. Comparison of the size of the top 3 schools endowments and compare this to the GDP of various countries.
-
+1.Top 10 University Endowments (2018), Private Vs Public
+2. Growth of Endowments Over Time, Private Vs Public
+3. Top 10 Universities Endowments As a Multiple of [insert country here's] GDP (Interactive Component)
+4. Relative Endowments Per Student, Private Vs Public
+5. Pie Charts of How Endowments Are Spent, Private Vs Public
+6. Map of Top 10 University Locations and the Median Income
 
 
 <u> Sketch of Story Arc </u>
@@ -79,7 +71,7 @@ The data sources I intend to use are the following:
 In a few paragraphs, you should document how you plan on completing your final project.  One option we've already discussed is building a story using your data using Shorthand - but this is my no means your only option.  
 
 
-I plan on using Shorthand as my implementation strategy for this project.
+I plan on using Shorthand as my implementation strategy for this project. I will use Shorthand to pull together text and visualizations (that I will likely create using Flourish) in a coherent story, with sections within Shorthand corresponding to each of the major elements of my story arc, as desribed above in "Overview of Project."
 
 
 ## References
