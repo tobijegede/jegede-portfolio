@@ -6,13 +6,11 @@ Goal for this summary section:
 - A high-level summary of your project.  This should be a sentence or two that describes what you're interested in showing with your final project.
 - A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  
 -------------------------
-Idea #1: The purpose of this project is to highlight the growth of the endowments of the top 20 universities in the United States and how to highlight how little of that money is actually used to benefit individual students and campus. Inspiration for this visual exploration of these inequities was gained from reading a WBUR article on inequities in college donations.[^1]
+The purpose of this project is to highlight the rapid growth of the endowments of the top 20 universities in the United States over the past decade and to emphasize how little of that money is actually used to benefit individual students and campus. Inspiration for this visual exploration of these inequities was gained from reading a WBUR article on inequities in college donations.[^1] Additionally, I want to make sure to highlight how these well-endowed universities grew, in some cases, at the expense of the communities in which they reside and that the money given for university endowments is typically untaxable and allowed to grow exponentially larger year or over year, even during the pandemic. Ultimtely, my call to action will be something like "Don't give money to your alma mater (if you attended a top 20 university in the US). Give to a worthier cause instead." 
 
-how large the endowments of the top 20 universities in the United States have gotten and how most of that money has not been used for the purpose 
+Here's a view of the major elements of my story:
 
 
--highlight that endowments are largely untaxable funds of money for the university. 
-Despite these large endowments and the potential to give back to their local communities 
 
 Idea #2: Don't Give Money to Your Alma Mater
 
