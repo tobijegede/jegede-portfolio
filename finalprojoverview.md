@@ -9,21 +9,31 @@ The purpose of this project is to highlight the rapid growth of the endowments o
 
 Here's a view of the major elements of my story:
 
-1. Introduce the concept of an **endowment**, with a hook like the following:
- - "If you're like me, you might receive  emails, physical mail, and annual calls from your undergraduate institution asking you to donate money. The pleas are made in earnest and emphasize how much your donation of $20 or more can help bring about meaningful change on your campus and assist future students. Something that has always confused me is why my university, who's annual endowment is more than $20 billion dollars, needs money from me. I also question, should I be giving money to an institution that already has so much?"  
+1. Introduce the concept of an **endowment**, with a hook something like the following:
+ > "If you're like me, you might receive  emails, physical mail, and annual calls from your undergraduate institution asking you to donate money. The pleas are made in earnest and emphasize how much your donation of $20 or more can help bring about meaningful change on your campus and assist future students. Something that has always confused me is why my university, who's annual endowment is more than $20 billion dollars, needs money from me. I also question, should I be giving money to an institution that already has so much?"  
 
 2. Provide A Definition of an Endowment &  Highlight General Trends in Endowments Over the Last Decade
- - 
+ - In this section, I want to provide information about these key trends (see below in the intial sketches section for inital renderings of how these trends could be displayed)
+    - Top 10 University Endowments, as of 2018 (this is the latest date of the data publically avaiable from the National Center for Education Statistics)
+    - The Growth of Endowments Over Time At the Top
+    - Endowment per Student 
+        - (want to highlight that universities that serve many students (public universities) don't have the ability to serve their students, the way that private insitutitions are able to -- having this information in conjunction with racial & social demographic information and differences between private and public institutions) 
+        - Public Institutitons are much better at moving low-income students to upper income brackets than the top 10 private insitutions would even be able to do. If we are supposed to view higher education as a well to create equal financial footing, we should focus our attention away from private universities who thrive on exclusivity and instead divert our funds to local colleges and universities that do a much better job of elevating students in need.[^2]
+    - Top 5 or 10 Public Vs Top 5 or 10  Prviate School Endowments Comparison
+       -  Could  get the top 5/top10 public and private school informtion from US News and World Report. Top 20 universities in the US (according to US News and World Report 2022 - https://www.usnews.com/best-colleges/rankings/national-universities): Princeton, Columbia, Harvard, MIT, Yale, Stanford, UChicago, UPenn, Caltech, Duke, Johns Hopkins, Northwestern, Dartmouth, Brown, Vanderbilt, WUSTL, Cornell, Rice, Notre Dame, UCLA.  
 
-Idea #2: Don't Give Money to Your Alma Mater
 
-Exposing high Education Endowment Sizes and How Elite Universities negatively impact the communities around them
-
+3. Contextualizing The Sheer Size of The Endowments of the Top 5/10 Private Universities
+- Visualiations would be provided on the following arenas:
+     -  Top 10 Universities Endowments As a Multiple of [insert country here's] GDP
+         > As an example, Harvard's endowment 
+     - An Interactive Component that allows Individuals to select from a list of universties 
+     - How Endowments are Spent (this has been a little hard to find information about but will continue to dig further on this issue
+4. Why Do Large Endowments Matter?
 
 (1. stop donating to your undergrad institution if their endowment is over a certain size, 2. engage in local activism movements to encourage local senators to give money to state colleges, 3. Find other worthy causes that allow you to donate directly to individuals instead of to massive corporations.)
 
 
-Top 20 universities in the US (according to US News and World Report 2022 - https://www.usnews.com/best-colleges/rankings/national-universities): Princeton, Columbia, Harvard, MIT, Yale, Stanford, UChicago, UPenn, Caltech, Duke, Johns Hopkins, Northwestern, Dartmouth, Brown, Vanderbilt, WUSTL, Cornell, Rice, Notre Dame, UCLA
 
 
 Give Your Donation money to those who actually deserve it! 
@@ -95,4 +105,5 @@ I plan on using Shorthand as my implementation strategy for this project.
 
 
 ## References
-[^1]: WBUR article about College Donation Inequity & Endowments https://www.wbur.org/cognoscenti/2019/05/07/college-donation-inequality-sylvia-brown-ayele-shakur 
+[^1]: WBUR article about College Donation Inequity & Endowments https://www.wbur.org/cognoscenti/2019/05/07/college-donation-inequality-sylvia-brown-ayele-shakur
+[^2]: https://www.brookings.edu/blog/up-front/2020/07/22/public-colleges-are-the-workhorses-of-middle-class-mobility/ 
