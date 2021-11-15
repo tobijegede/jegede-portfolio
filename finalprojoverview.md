@@ -45,7 +45,8 @@ In addition to not spending money how they say they should,
 There is also a link between the vast explosion of university and gentrification in the areas that they sit in
 
 (A map of universities and the changing median income in the areas surrounding those areas (and perhaps also a map of the racial composition) changing over 20 years
-- gentrification (https://www.rentcafe.com/blog/rental-market/real-estate-news/top-20-gentrified-zip-codes/) 
+- gentrification (https://www.rentcafe.com/blog/rental-market/real-estate-news/top-20-gentrified-zip-codes/) -- will need to pull Census ACS data for this (and historical median household income, etc.)
+- country GDP data for comparisons, collected from the World Bank https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2020&start=1960&view=chart and uploaded as "historical_gdp_gobal.csv" file on this github repo.
 
 
 https://www.wbur.org/cognoscenti/2019/05/07/college-donation-inequality-sylvia-brown-ayele-shakur 
