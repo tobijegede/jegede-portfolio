@@ -1,8 +1,5 @@
-## Overview of Project - "Don't Give Money to Your Alma Mater"
+## Overview of Project - "Don't Give Money to Your Alma Mater: An Exploration of University Endowments"
 
-- A high-level summary of your project.  This should be a sentence or two that describes what you're interested in showing with your final project.
-- A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  
--------------------------
 The purpose of this project is to highlight the rapid growth of the endowments of the top 20 universities in the United States over the past decade and to emphasize how little of that money is actually used to benefit individual students and campus. Inspiration for this visual exploration of these inequities was gained from reading a WBUR article on inequities in college donations.[^1] Additionally, I want to make sure to highlight how these well-endowed universities grew, in some cases, at the expense of the communities in which they reside and that the money given for university endowments is typically untaxable and allowed to grow exponentially larger year or over year, even during the pandemic. Ultimtely, my call to action will be something like "Don't give money to your alma mater (if you attended a top 20 university in the US). Give to a worthier cause instead." In summary, Throughout my project, I want to explore what endowments are, how they are used, how they are marketed, and some action items readers can take after this. 
 
 
@@ -26,36 +23,13 @@ Here's a view of the major elements of my story:
 3. Contextualizing The Sheer Size of The Endowments of the Top 5/10 Private Universities
 - Visualiations would be provided on the following arenas:
      -  Top 10 Universities Endowments As a Multiple of [insert country here's] GDP
-         > As an example, Harvard's endowment 
-     - An Interactive Component that allows Individuals to select from a list of universties 
-     - How Endowments are Spent (this has been a little hard to find information about but will continue to dig further on this issue
+         > This could be an interactive module that allows you select a given university and both maps this data using a flag as a packground image for the visualization. An example result would be: "Harvard's endowment is twice the size of Zambia's GDP, a country with a population of approximately 18 million"
+     - How Endowments are Spent (this has been a little hard to find information about but will continue to dig further on this issue) 
 4. Why Do Large Endowments Matter?
+   - In this section, I want to highlight how endowments and wealth institutions in general can end being a problem for the cities that they reside in. I would want to do create a map that shows the endowment size of universities relative to the median income of the neighborhoods or zip codes in which they reside.
 
-(1. stop donating to your undergrad institution if their endowment is over a certain size, 2. engage in local activism movements to encourage local senators to give money to state colleges, 3. Find other worthy causes that allow you to donate directly to individuals instead of to massive corporations.)
-
-
-
-
-Give Your Donation money to those who actually deserve it! 
-
-
-Could instead look at doing something on endowments
-
-Don’t Give Back To Your Alma Mater
-If you attended the top 20 schools in the US
-
-
-If you went to the 
-
-
-
-In addition to not spending money how they say they should, 
-There is also a link between the vast explosion of university and gentrification in the areas that they sit in
-
-(A map of universities and the changing median income in the areas surrounding those areas (and perhaps also a map of the racial composition) changing over 20 years
-
-
-
+5. Call To Action
+- In this section, I will give my readers some concrete steps they can take after reading through my exploration of university endowments, such as donating to local universities, getting in touch with your local representative to lobby for taxes to be put on university endowments, and reading additional resources that have been written on this subject.
 
 
 ## Initial Sketches 
@@ -91,8 +65,9 @@ At a minimum, you should include the following:
 
 The data sources I intend to use are the following:
 1. **Endowment Data:** This data comes from the National Center for Education Statistics (NCES) and is available for the period from 2011 to 2018. The datasets can be accessed at the following link: https://nces.ed.gov/ipeds/Search?query=endowment&query2=endowment&resultType=all&page=1&sortBy=relevance&overlayDigestTableId=200947
-2. **Global GDP Data:** country GDP data for comparisons, collected from the World Bank https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2020&start=1960&view=chart and uploaded as "historical_gdp_gobal.csv" file on this github repo.
-3. **Potential Dataset on Gentrification:** This website has some scrapable data potentially but will also likely need to get into the backend of this data by going directly to the Census ACS data.  (https://www.rentcafe.com/blog/rental-market/real-estate-news/top-20-gentrified-zip-codes/) -- will need to pull Census ACS data for this (and historical median household income, etc.)
+2. **University Enrollment Data:** This data would be used to calculate per-student endowment numbers: https://nces.ed.gov/ipeds/search?query=Enrollment%20of%20the%20120%20largest%20degree-granting%20college%20and%20university%20campuses,%20by%20selected%20characteristics%20and%20institution&query2=Enrollment%20of%20the%20120%20largest%20degree-granting%20college%20and%20university%20campuses,%20by%20selected%20characteristics%20and%20institution&resultType=all&page=1&sortBy=relevance&overlayDigestTableId=201277 
+3. **Global GDP Data:** country GDP data for comparisons, collected from the World Bank https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2020&start=1960&view=chart and uploaded as "historical_gdp_gobal.csv" file on this github repo.
+4. **Potential Dataset on Gentrification:** This website has some scrapable data potentially but will also likely need to get into the backend of this data by going directly to the Census ACS data.  (https://www.rentcafe.com/blog/rental-market/real-estate-news/top-20-gentrified-zip-codes/) -- will need to pull Census ACS data for this (and historical median household income, etc.)
 
 
 
