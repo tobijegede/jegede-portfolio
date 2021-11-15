@@ -8,9 +8,42 @@ Goal for this summary section:
 -------------------------
 Idea #1: The purpose of this project is to highlight the issue of algorithmic bias and how it impacts our daily lives and high-stakes arenas. The initial story arc that we developed in class is copied below in the next section to give an idea of the general mood that I expect readers to be in when they view my resulting website. I want to use a recidivism algorithm that already exists (the National Institutes of Justice (NIJ) recidivism challenge dataset) as a way of understanding the issues that arise with using blackbox algorithms to implement structural change and to use in high-stakes decision making processes. 
 
-Idea #2: Exposing high Education Endowment Sizes and How Elite Universities negatively impact the communities around them
+Idea #2: Don't Give Money to Your Alma Mater
+
+Exposing high Education Endowment Sizes and How Elite Universities negatively impact the communities around them
 
 If you're like me, you might receive constant emails, physical mail, and annual calls from your undergraduate institution asking you to donate money. The pleas are made in earnest and emphasize how much your donation fo $20 or more can help bring about meaningful change on your campus and assist future students. But, how true is this? Throughout my project, I want to explore what endowments are, how they are used, how they are marketed, and some action items readers can take after this. (1. stop donating to your undergrad institution if their endowment is over a certain size, 2. engage in local activism movements to encourage local senators to give money to state colleges, 3. Find other worthy causes that allow you to donate directly to individuals instead of to massive corporations.)
+
+
+
+Give Your Donation money to those who actually deserve it! 
+
+
+Could instead look at doing something on endowments
+
+Don’t Give Back To Your Alma Mater
+If you attended the top 20 schools in the US
+
+
+If you went to the 
+
+
+1. Size of the endowments at the top 20 schools
+2. A graph of endowment per student population
+3. Endowment to local area revenue comparison
+4. Growth in endowment size over time
+5. Data on what endowments are spent on
+6. Private vs public schools and spending per student
+7. Comparison of the size of the top 3 schools endowments and compare this to the GDP of various countries.
+
+In addition to not spending money how they say they should, 
+There is also a link between the vast explosion of university and gentrification in the areas that they sit in
+
+(A map of universities and the changing median income in the areas surrounding those areas (and perhaps also a map of the racial composition) changing over 20 years
+
+
+https://www.wbur.org/cognoscenti/2019/05/07/college-donation-inequality-sylvia-brown-ayele-shakur 
+
 
 ## Initial Sketches 
 
