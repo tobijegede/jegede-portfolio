@@ -27,4 +27,5 @@ Here's some of the key components of my portfolio:
 ### Storyboarding and Draft Ideas
 
 [Final Project Part 1: Storyboarding & Initial Sketches](finalprojoverview.md)
+[Final Project Part 2](finalprojpart2.md)
 
