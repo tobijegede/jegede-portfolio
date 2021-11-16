@@ -22,10 +22,9 @@ Here's some of the key components of my portfolio:
 [Public Transit Ridership Before, During, and After COVID-19 Pandemic](transitviz.md)
 
 
-# Storyboarding and Draft Ideas
-
-[Final Project Storyboarding & Initial Sketches](finalprojoverview.md)
-
 # Final Project
-The results of my final project will be found (insert some link here)here!
+
+### Storyboarding and Draft Ideas
+
+[Final Project Part 1: Storyboarding & Initial Sketches](finalprojoverview.md)
 
