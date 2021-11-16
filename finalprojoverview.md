@@ -82,7 +82,15 @@ The data sources I intend to use are the following:
 
 ## Method and Medium
 
-I plan on using Shorthand as my implementation strategy for this project. I will use Shorthand to pull together text and visualizations (that I will likely create using Flourish) in a coherent story, with sections within Shorthand corresponding to each of the major elements of my story arc, as desribed above in "Overview of Project." I will 
+
+<u> Medium </u>
+
+I plan on using Shorthand as my implementation strategy for this project. I will use Shorthand to pull together text and visualizations into a coherent story. The section headers within Shorthand will correspond to each of the major elements of my story arc, as desribed above in "Overview of Project."
+
+
+<u> Method </u>
+
+I plan to use the remaining part of this week to begin actually building out some of the visualizations that I have sketched above using Flourish. To accomplish this goal, there are some additional data cleaning steps that I need to complete, such as getting all of the years of endowment data into one .csv file. I also want to start incorporating and embedding some of these initial visualizations into Shorthand to start to see how the story that I am trying to communicate is coming togehter. Then, I will spend next week starting some user research and making tweaks to my final website, as needed. Finally, I will use some of the key points in my story arc sketch to begin developing my 1-minute presentation that will occur in 2 weeks.
 
 
 ## References
