@@ -40,7 +40,12 @@ Here's a view of the major elements of my story:
 
 
 The initial sketches for the four above chart descriptions are below:
+
 ![Sketches 1](initial_sketches_1.jpg)
+
+
+
+
 
 
 
@@ -48,6 +53,13 @@ The initial sketches for the four above chart descriptions are below:
 
 6. Pie Charts of How Endowments Are Spent, Private Vs Public
 7. Map of Top 10 University Locations and the Median Income
+
+
+
+The sketches for the remaining visualizations are captured below:
+
+![Sketches 2](initial_sketches_2.jpg)
+
 
 
 <u> Sketch of Story Arc </u>
@@ -72,7 +84,8 @@ The data sources I intend to use are the following:
     - I plan to use the above data to show changes in endowment size over time by university. This will help me to set the stage for my readers and provide useful context about how the size of university endowments has changed over the last decade.
 3. **University Enrollment Data:** This data would be used to calculate per-student endowment numbers: https://nces.ed.gov/ipeds/search?query=Enrollment%20of%20the%20120%20largest%20degree-granting%20college%20and%20university%20campuses,%20by%20selected%20characteristics%20and%20institution&query2=Enrollment%20of%20the%20120%20largest%20degree-granting%20college%20and%20university%20campuses,%20by%20selected%20characteristics%20and%20institution&resultType=all&page=1&sortBy=relevance&overlayDigestTableId=201277 
 4. **Global GDP Data:** country GDP data for comparisons, collected from the World Bank https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2020&start=1960&view=chart and uploaded as "historical_gdp_gobal.csv" file on this github repo. As described above, this data would be used to contextualize the scale of the information on university endowments. Because a "billion" dollars is often hard to understand to the layperson, providing this extra data would emphasize just how large this amount of money is for the average persion. 
-5. **Census American Community Survey (ACS) Data:** This dataset would be used in order to create the map of endowments versus median income level of the areas in which the universities of interest reside. Another potential dataset that examins gentrifiction is found on this website: (https://www.rentcafe.com/blog/rental-market/real-estate-news/top-20-gentrified-zip-codes/). For this project, I would scrape the data from this website to get more information about zip-code level changes in median income that could be a potential indicator of gentrification. 
+5. **Census American Community Survey (ACS) Data:** This dataset would be used in order to create the map of endowments versus median income level of the areas in which the universities of interest reside. 
+6. Another potential dataset that examines gentrification is found on this website: (https://www.rentcafe.com/blog/rental-market/real-estate-news/top-20-gentrified-zip-codes/). For this project, I would scrape the data from this website to get more information about zip-code level changes in median income that could be a potential indicator of gentrification. 
 
 
 ## Method and Medium
