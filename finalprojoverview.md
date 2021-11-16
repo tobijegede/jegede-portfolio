@@ -9,8 +9,8 @@ Here's an overview of the major elements of my story:
  > "If you're like me, you might receive  emails, physical mail, and annual calls from your undergraduate institution asking you to donate money. The pleas are made in earnest and emphasize how much your donation of $20 or more can help bring about meaningful change on your campus and assist future students. Something that has always confused me is why my university, whose endowment is more than $20 billion dollars, needs money from me. I often wonder -- should I be giving money to an institution that already has so much?"  
 
 2. Provide A Definition of an Endowment &  Highlight General Trends in Endowments Over the Last Decade
- - In this section, I want to provide information about these key trends (see below in the initial sketches section for initial renderings of how these trends could be displayed): 
-    - **Top 10 University Endowments (2018), Private Vs Public**. I would use this visualization as basic background to understand the differnces between private and public universities, in terms of endowment spenidng. 
+ - In this section, I want to provide information about these key factors (see below in the initial sketches section for initial renderings of how these trends could be displayed): 
+     - **Top 10 University Endowments (2018), Private Vs Public**. I would use this visualization as basic background to understand the differnces between private and public universities, in terms of endowment spenidng. 
     - **Percent Change in Growth of Endowments Since 2000, Private Vs Public**
 
     - **Endowment per Student, Private vs Public**
