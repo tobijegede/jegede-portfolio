@@ -23,9 +23,8 @@ Here's some of the key components of my portfolio:
 
 
 # Storyboarding and Draft Ideas
-Here's the link to my page for where I created a storyboard and some draft ideas for my final project topic.
 
-[Final Project Storyboarding](finalprojoverview.md)
+[Final Project Storyboarding & Initial Sketches](finalprojoverview.md)
 
 # Final Project
 The results of my final project will be found (insert some link here)here!
