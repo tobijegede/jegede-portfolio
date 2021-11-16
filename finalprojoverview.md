@@ -51,8 +51,8 @@ The initial sketches for the four above chart descriptions are below:
 
 
 
-6. Pie Charts of How Endowments Are Spent, Private Vs Public
-7. Map of Top 10 University Locations and the Median Income
+5. Pie Charts of How Endowments Are Spent, Private Vs Public
+6. Map of Top 10 University Locations and the Median Income
 
 
 
@@ -61,10 +61,14 @@ The sketches for the remaining visualizations are captured below:
 ![Sketches 2](initial_sketches_2.jpg)
 
 
+<u> Storyboard Combining Main Story Elements with Placeholders Visualizations Described Above </u>
+
+![Storyboard](storyboard.jpg)
 
 <u> Sketch of Story Arc </u>
 
 ![Story Progression](story_progression.jpg)
+
 
 
 
