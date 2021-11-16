@@ -70,14 +70,6 @@ The sketches for the remaining visualizations are captured below:
 
 ## Data Sources
 
- To be successful in the final project, you'll need to get a copy of the data you'll need for your final project, or recreate it based on various sources.  Make sure in all cases to record your sources and cite these data sources appropriately. 
-
-At a minimum, you should include the following: 
-
-- A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-----------------------------
-
 The data sources I intend to use are the following:
 
 1. **Endowment Data:** This data comes from the National Center for Education Statistics (NCES) and is available for the period from 2011 to 2018. The datasets can be accessed at the following link: https://nces.ed.gov/ipeds/Search?query=endowment&query2=endowment&resultType=all&page=1&sortBy=relevance&overlayDigestTableId=200947
@@ -90,10 +82,7 @@ The data sources I intend to use are the following:
 
 ## Method and Medium
 
-In a few paragraphs, you should document how you plan on completing your final project.  One option we've already discussed is building a story using your data using Shorthand - but this is my no means your only option.  
-
-
-I plan on using Shorthand as my implementation strategy for this project. I will use Shorthand to pull together text and visualizations (that I will likely create using Flourish) in a coherent story, with sections within Shorthand corresponding to each of the major elements of my story arc, as desribed above in "Overview of Project."
+I plan on using Shorthand as my implementation strategy for this project. I will use Shorthand to pull together text and visualizations (that I will likely create using Flourish) in a coherent story, with sections within Shorthand corresponding to each of the major elements of my story arc, as desribed above in "Overview of Project." I will 
 
 
 ## References
