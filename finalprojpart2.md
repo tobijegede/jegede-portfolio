@@ -2,6 +2,9 @@
 
 I completed my storyboarding in Shorthand. My rough outline and storyboarding on Shorthand can be found at the following link: 
 
+<script async src="https://preview.shorthand.com/jlb44F87EPDEcbQh.js"></script>
+
+
 # User Research
 
 ## User Research Protocol
