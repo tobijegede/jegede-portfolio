@@ -39,6 +39,11 @@ I wanted to interview individuals who had graduated from college recently for wh
   
  
 <u> Interview Script </u>
+
+Hi, 
+
+Is the story cohesive?
+Are you able to clearly link the sections of the visualization together?
   
  
 <u> Interview Findings  </u>
