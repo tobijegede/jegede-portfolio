@@ -104,7 +104,7 @@ map ()
 - could inlcude in the call to action an actual list of nonprofits to donate to and how your donation would be used for the non-profits vs how it could be used for the university's purposes
 
 
-  <br> Gender:  <br> Race:  <br> Age:  <br> 
+  
  
 <u> Interview Findings  </u>
 
@@ -113,8 +113,15 @@ The findings for my interview are summarized below:
 
 
 <u> Description of Interviewees </u>
+ Gender
+- Race
+- Age: 26
+- Years Since College Graduation: 4
+- Type of College Attended (Public vs Private): Private 
+- State of Residence: PA
+  
 
-| Interview Questions| Interviewee #1 | Interviewee #2 | Interviewee #3 |
-| --------- | -------------- | -------------- |  ------------- |
-
+| Interview Questions| Interviewee #1 <br> Gender: Female <br> Race: White  <br> Age: 26 <br> Years Since College Graduation : 4 <br> Type of College Attended (Public vs Private): Private <br>  State of Residence: PA | Interviewee #2 <br> Gender: Female <br> Race: Black  <br> Age: 25 <br> Years Since College Graduation : 3 <br> Type of College Attended (Public vs Private): Private <br>  State of Residence: NC | Interviewee #3 <br> Gender: Female <br> Race: Black  <br> Age: 27 <br> Years Since College Graduation : 5 <br> Type of College Attended (Public vs Private): Private <br>  State of Residence: IL |
+| --------- | :-------------- | :-------------- |  :------------- |
+| 1. What are your initial reactions to the layout and logical structure of the website? | blah blah blah | blah blah blah | blah blah blah |
 
