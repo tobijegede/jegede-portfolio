@@ -2,7 +2,12 @@
 
 I completed my storyboarding in Shorthand. My rough outline and storyboarding on Shorthand can be found at the following link: 
 
+
+<script src="https://carnegiemellon.shorthandstories.com/don-t-donate-to-your-alma-mater-an-exploration-of-university-endowments/embed.js"></script>
+
 https://preview.shorthand.com/jlb44F87EPDEcbQh
+
+
 
 
 # User Research
