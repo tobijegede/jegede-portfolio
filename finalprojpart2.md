@@ -35,10 +35,10 @@ In line with the description above of my target audience, I sought out individua
 
 - Gender
 - Race
-- Age
-- Years Since College Graduation 
-- Type of College Attended (Public vs Private)
-- State of Residence 
+- Age: 26
+- Years Since College Graduation: 4
+- Type of College Attended (Public vs Private): Private 
+- State of Residence: PA
   
  
 <u> Interview Script </u>
@@ -50,11 +50,29 @@ In designing my user research protocol, I was primarily concerned with three mai
 **Aesthetics & Layout:**
 
 1. What are your initial reactions to the layout and logical structure of the website?
-2. What are some of the things that are working about the overall layout/use of color? Do you find the colors to be distracting or do they compliment the story?
-3. What are some things that are confusing in the layout or use of color that you would want to see improved?
-4. Are the visualizations clear in what they are showing? If not, what could be improved in the visualizations?
-5. Should there be a different color scheme used that would better convey the central message of the website?
-6. From a visual perspective, what parts for improvement do you think should be prioritized?
+2.  logically the arugments flow, only have top 20 universities (more interesting to see top 200 or public vs private universities) -- argument about universities (what if universitites played a bigger role than the cities that they're in -- hold more power than their 
+- alumni -- organize for what university should spend endowment on (divestment focus) --> usful 
+
+
+4. What are some of the things that are working about the overall layout/use of color? Do you find the colors to be distracting or do they compliment the story?
+"colors are good" =
+
+
+6. What are some things that are confusing in the layout or use of color that you would want to see improved?
+"estemed formal pupil) - nope (fix capitalization)  --
+
+
+
+8. Are the visualizations clear in what they are showing? If not, what could be improved in the visualizations?
+
+-- in the map, emphasize the city-level information VS state bc it's unclear what the emphasis should be (making an arugment about state level impact, then give state-level info), (change the title of the map to make it clearer)
+
+
+
+10. Should there be a different color scheme used that would better convey the central message of the website?
+
+
+11. From a visual perspective, what parts for improvement do you think should be prioritized?
 
 **Logical Coherence:**
 
@@ -65,16 +83,28 @@ In designing my user research protocol, I was primarily concerned with three mai
 **Persuasive Effectiveness:** 
 
 10. Is there sufficient evidence presented in the website to support this main point? If not, What additional information would you need for the visualizations to be sufficiently persuasive?
-11. Are there any points where further explanation is needed?
-12. Does the website in its current form inspire you to learn more about college endowments?
-13. Do you feel like you’ve learned something from this website? 
-14. Is there anything that you were hoping to learn through the website that you weren't able to learn, with the current way that the information is provided?
+
+- clear linkages
+12. Are there any points where further explanation is needed?
+
+map ()
+
+
+14. Does the website in its current form inspire you to learn more about college endowments?
+15. - yes
+16. Do you feel like you’ve learned something from this website? 
+17. -yes 
+18. Is there anything that you were hoping to learn through the website that you weren't able to learn, with the current way that the information is provided?
+- breakdown endowments are invested (could help to strength the arugment)
 
 **Overall:**
 
 15. Do you have any final thoughts or suggestions that weren't already covered in the previous questions?
 
-  
+- could inlcude in the call to action an actual list of nonprofits to donate to and how your donation would be used for the non-profits vs how it could be used for the university's purposes
+
+
+  <br> Gender:  <br> Race:  <br> Age:  <br> 
  
 <u> Interview Findings  </u>
 
@@ -84,7 +114,7 @@ The findings for my interview are summarized below:
 
 <u> Description of Interviewees </u>
 
-| Interview Questions| Interviewee #1 <br> Gender:  <br> Race:  <br> Age:  <br> | Interviewee #2 | Interviewee #3 |
+| Interview Questions| Interviewee #1 | Interviewee #2 | Interviewee #3 |
 | --------- | -------------- | -------------- |  ------------- |
 
 
