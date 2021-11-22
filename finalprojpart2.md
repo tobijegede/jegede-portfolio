@@ -84,7 +84,7 @@ The findings for my interview are summarized below:
 
 <u> Description of Interviewees </u>
 
-| Interview Questions| Interviewee #1 <br> Gender:  <br> Race:  <br> Age:  <br>| Interviewee #2 | Interviewee #3 |
+| Interview Questions| Interviewee #1 <br> Gender:  <br> Race:  <br> Age:  <br> | Interviewee #2 | Interviewee #3 |
 | --------- | -------------- | -------------- |  ------------- |
 
 
