@@ -26,65 +26,49 @@ Given that my project is trying to examine university endowments, and ultimately
 
 <u> Approach to Finding Representative Individuals to Interview </u>
 
-  
-  Demographic Information on each of my interviewees include:
-  Gender
-  Race
-  Age
-  Years Since College Graduation
-  State of Residence
-  Type of College Attended (Public vs Private)
+In line with the description above of my target audience, I sought out individuals who had recently graduated college and tried to find a few different ages, types of universities attended, demographics, and racial breakdowns. I reached out to family and friends fit these criteria. The information that I wanted to collect on my interview subjects were the following:
+
+- Gender
+- Race
+- Age
+- Years Since College Graduation 
+- Type of College Attended (Public vs Private)
+- State of Residence 
   
  
 <u> Interview Script </u>
 
-In designing my user research protocol, I was primarily concerned with three main themes: Aesthetics & Layout , Logical Coherence, Effectiveness. As such, my interview script was broken doen as follows:
-
+In designing my user research protocol, I was primarily concerned with three main themes: Aesthetics & Layout , Logical Coherence, Persuasive Effectiveness. As such, my interview script was broken down as follows:
 
 <u> Interview Script </u>
 
-**Aesthetics & Layout: **
+**Aesthetics & Layout:**
 
 1. What are your initial reactions to the layout and logical structure of the website?
-2. What are some of the things that are working about the overall layout/use of color?
+2. What are some of the things that are working about the overall layout/use of color? Do you find the colors to be distracting or do they compliment the story?
 3. What are some things that are confusing in the layout or use of color that you would want to see improved?
+4. Are the visualizations clear in what they are showing? If not, what could be improved in the visualizations?
+5. Should there be a different color scheme used that would better convey the central message of the website?
+6. From a visual perspective, what parts for improvement do you think should be prioritized?
 
 **Logical Coherence:**
-4. Is the story that is being told clear?
-5. If you were to provide a one sentence summary of 
 
-Is there sufficient evidence presented that supports this main point?
+7. Is the story that is being told clear? Are you able to clearly link the sections of the website together through the visualizations?
+8. If you were to provide a one sentence summary of what you're seeing, what would it be?
+9. From a logical coherence perspective, what parts for improvement do you think should be prioritized?
 
-What are some things that work well about the current design/information currently displayed?
+**Persuasive Effectiveness:** 
 
-What parts are confusing?
+10. Is there sufficient evidence presented in the website to support this main point? If not, What additional information would you need for the visualizations to be sufficiently persuasive?
+11. Are there any points where further explanation is needed?
+12. Does the website in its current form inspire you to learn more about college endowments?
+13. Do you feel like you’ve learned something from this website? 
+14. Is there anything that you were hoping to learn through the website that you weren't able to learn, with the current way that the information is provided?
 
-What parts for improvement do you think should be prioritized?
+**Overall:**
 
-If not, What additional information would you need for the visualizations to be sufficiently persuasive?
+15. Do you have any final thoughts or suggestions that weren't already covered in the previous questions?
 
-Do you find the colors to be distracting or do they compliment the story?
-
-Should there be a different color scheme used that would better convey the central message of the website?
-
-Are the visualizations clear in what they are showing?
-
-Are there any points where further explanation is needed?
-
-What mood do you feel when going through the story? 
-
-Does the website in its current form inspire you to learn more about college endowments?
-
-Do you feel like you’ve learning something from this website? 
-
-- What problems are the most severe
-
-Hi, 
-
-My project
-
-Is the story cohesive?
-Are you able to clearly link the sections of the visualization together?
   
  
 <u> Interview Findings  </u>
