@@ -42,6 +42,8 @@ I wanted to interview individuals who had graduated from college recently for wh
 
 Hi, 
 
+My project
+
 Is the story cohesive?
 Are you able to clearly link the sections of the visualization together?
   
@@ -52,9 +54,10 @@ The findings for my interview are summarized below:
   
 
 
-
-
 <u> Description of Interviewees </u>
 
-| Interviews| Interviewee #1 | Interviewee #2 | Interviewee #3 |
+| Interview Questions| Interviewee #1 \n 
+  | Interviewee #2 | Interviewee #3 |
 | --------- | -------------- | -------------- |  ------------- |
+
+
