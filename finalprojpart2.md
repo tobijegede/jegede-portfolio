@@ -81,7 +81,7 @@ The findings for my interview are summarized below:
 
 
 ## Improvements For Part 3
-**The key improvements needed for my final presentation that I noted from my user research were the following: 
+**The key improvements needed for my final presentation that I noted from my user research were the following:**
 
 1. Fix the colored, bolded parts of the endowment definition and other callouts throughout the storyboard to a dark orange or other non-red color to make the callouts easier to read.
 2. Fix the map by either eliminating it or selecting a clearer reference/comparison point. Also, add a clearer title to the map.
