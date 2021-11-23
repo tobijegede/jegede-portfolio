@@ -89,3 +89,9 @@ The findings for my interview are summarized below:
 4. Find potential non-profits or other examples of orgs to donate to instead of just talking about this call to action point broadly, in order to help readers start this exploratory process for themselves.
 5. Another thing to change, in the table that I have displayed, is something that interviewee #3 mentioned -- add the number represented in the bar chart to the actual bar because, unless you hover over the bar, you can't tell what number it is supposed to represent. Also, adding additional "multiple comparisons" would be useful in helping to further contextualize the information shown and make the current selection of "rwanda" less random.
 6. Also, making more of a story/main summary point as the title for my graphics could also get the main point across in each of my visualizations.
+7. Adjust the color scheme
+8. Reduce the number of calls to action and strength the call to action with a direct link to an actual nonprofit organization doing good work
+9. Use canva or some other visualization technique (figma) as a way to display the GDP vs Endowment data (maybe pick three countries)
+10. Also, make the "Why this matters" part of the visualization easier to understand so that the call to action is more convincing for readers
+11. Add "leading text". Although the general flow of information is clear
+12. Add the piece about how endowment money is spent OR about divestment --> use divestment as the important piece of why large endowments are bad --> possibly contect this to climate change INSTEAD of focusing on this like town vs gown, university wealth vs local community poverty comparison, as this would be in line with the sorts of discussions that are already happening.
