@@ -95,3 +95,4 @@ The findings for my interview are summarized below:
 10. Also, make the "Why this matters" part of the visualization easier to understand so that the call to action is more convincing for readers
 11. Add "leading text". Although the general flow of information is clear
 12. Add the piece about how endowment money is spent OR about divestment --> use divestment as the important piece of why large endowments are bad --> possibly contect this to climate change INSTEAD of focusing on this like town vs gown, university wealth vs local community poverty comparison, as this would be in line with the sorts of discussions that are already happening.
+13. Add a title to the table AND/OR maybe instead of using the table, use a series of smaller visualizations like (1 in 4 people) kind of thing instead, which could be clearer for the reader to understand.
