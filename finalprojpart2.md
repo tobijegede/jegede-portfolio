@@ -50,35 +50,18 @@ In designing my user research protocol, I was primarily concerned with three mai
 **Aesthetics & Layout:**
 
 1. What are your initial reactions to the layout and logical structure of the website?
-2. What are some of the things that are working about the overall layout/use of color? Do you find the colors to be distracting or do they compliment the story?
-"colors are good" =
-
-
-6. What are some things that are confusing in the layout or use of color that you would want to see improved?
-"estemed formal pupil) - nope (fix capitalization)  --
-
-
-
-8. Are the visualizations clear in what they are showing? If not, what could be improved in the visualizations?
-
--- in the map, emphasize the city-level information VS state bc it's unclear what the emphasis should be (making an arugment about state level impact, then give state-level info), (change the title of the map to make it clearer)
-
-
-
-10. Should there be a different color scheme used that would better convey the central message of the website?
-
-
-11. From a visual perspective, what parts for improvement do you think should be prioritized?
+2.  What are some of the things that are working about the overall layout/use of color? Do you find the colors to be distracting or do they compliment the story?
+3. What are some things that are confusing in the layout or use of color that you would want to see improved?  ["estemed formal pupil) - nope (fix capitalization)  --]
+4. Are the visualizations clear in what they are showing? If not, what could be improved in the visualizations?
 
 **Logical Coherence:**
 
-7. Is the story that is being told clear? Are you able to clearly link the sections of the website together through the visualizations?
-8. If you were to provide a one sentence summary of what you're seeing, what would it be?
-9. From a logical coherence perspective, what parts for improvement do you think should be prioritized?
+5. Is the story that is being told clear? Are you able to clearly link the sections of the website together through the visualizations?
+6. From a logical coherence perspective, what parts for improvement do you think should be prioritized?
 
 **Persuasive Effectiveness:** 
 
-10. Is there sufficient evidence presented in the website to support this main point? If not, What additional information would you need for the visualizations to be sufficiently persuasive?
+7. Is there sufficient evidence presented in the website to support this main point? If not, What additional information would you need for the visualizations to be sufficiently persuasive?
 
 - clear linkages
 12. Are there any points where further explanation is needed?
@@ -113,7 +96,14 @@ The findings for my interview are summarized below:
 | Interview Questions| Interviewee #1 <br> Gender: Female <br> Race: White  <br> Age: 26 <br> Years Since College Graduation : 4 <br> Type of College Attended (Public vs Private): Private <br>  State of Residence: PA | Interviewee #2 <br> Gender: Female <br> Race: Black  <br> Age: 25 <br> Years Since College Graduation : 3 <br> Type of College Attended (Public vs Private): Private <br>  State of Residence: NC | Interviewee #3 <br> Gender: Female <br> Race: Black  <br> Age: 27 <br> Years Since College Graduation : 5 <br> Type of College Attended (Public vs Private): Private <br>  State of Residence: IL |
 | --------- | :-------------- | :-------------- |  :------------- |
 | 1. What are your initial reactions to the layout and logical structure of the website? | logically the arugments flow, only have top 20 universities (more interesting to see top 200 or public vs private universities) -- argument about universities (what if universitites played a bigger role than the cities that they're in ; hold more power than their alumni ;  organize for what university should spend endowment on (divestment focus) --> usful | blah blah blah | blah blah blah |
-|2. What are some of the things that are working about the overall layout/use of color? Do you find the colors to be distracting or do they compliment the story |.   ok      |.   ok     |.       ok |
-|3.  What are some things that are confusing in the layout or use of color that you would want to see improved? |.   ok      |.   ok     |.       ok |
+|2. What are some of the things that are working about the overall layout/use of color? Do you find the colors to be distracting or do they compliment the story | The colors used are good and are not dstracting     |.   ok     |.       ok |
+|3.  What are some things that are confusing in the layout or use of color that you would want to see improved? |  nope (fix capitalization)       |.   ok     |.       ok |
+|4. Are the visualizations clear in what they are showing? If not, what could be improved in the visualizations?? |   – in the map, emphasize the city-level information VS state bc it’s unclear what the emphasis should be (making an arugment about state level impact, then give state-level info), (change the title of the map to make it clearer). (Note: Originally the title on the Map was "Top 10 University Endowments & Their Median Incomes", which was a placeholder but also confusing for this user to interpret that "their" was in reference to in this case.    |.   ok     |.       ok |
+
+|5. Should there be a different color scheme used that would better convey the central message of the website?| As mentioned above, the color scheme is find as it is     |.   ok     |.       ok |
 
 
+
+
+
+## Improvements For Part 3
