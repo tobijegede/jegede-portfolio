@@ -35,10 +35,10 @@ In line with the description above of my target audience, I sought out individua
 
 - Gender
 - Race
-- Age: 26
-- Years Since College Graduation: 4
-- Type of College Attended (Public vs Private): Private 
-- State of Residence: PA
+- Age
+- Years Since College Graduation
+- Type of College Attended (Public vs Private)
+- State of Residence
   
  
 <u> Interview Script </u>
@@ -50,11 +50,7 @@ In designing my user research protocol, I was primarily concerned with three mai
 **Aesthetics & Layout:**
 
 1. What are your initial reactions to the layout and logical structure of the website?
-2.  logically the arugments flow, only have top 20 universities (more interesting to see top 200 or public vs private universities) -- argument about universities (what if universitites played a bigger role than the cities that they're in -- hold more power than their 
-- alumni -- organize for what university should spend endowment on (divestment focus) --> usful 
-
-
-4. What are some of the things that are working about the overall layout/use of color? Do you find the colors to be distracting or do they compliment the story?
+2. What are some of the things that are working about the overall layout/use of color? Do you find the colors to be distracting or do they compliment the story?
 "colors are good" =
 
 
@@ -113,15 +109,11 @@ The findings for my interview are summarized below:
 
 
 <u> Description of Interviewees </u>
- Gender
-- Race
-- Age: 26
-- Years Since College Graduation: 4
-- Type of College Attended (Public vs Private): Private 
-- State of Residence: PA
-  
 
 | Interview Questions| Interviewee #1 <br> Gender: Female <br> Race: White  <br> Age: 26 <br> Years Since College Graduation : 4 <br> Type of College Attended (Public vs Private): Private <br>  State of Residence: PA | Interviewee #2 <br> Gender: Female <br> Race: Black  <br> Age: 25 <br> Years Since College Graduation : 3 <br> Type of College Attended (Public vs Private): Private <br>  State of Residence: NC | Interviewee #3 <br> Gender: Female <br> Race: Black  <br> Age: 27 <br> Years Since College Graduation : 5 <br> Type of College Attended (Public vs Private): Private <br>  State of Residence: IL |
 | --------- | :-------------- | :-------------- |  :------------- |
-| 1. What are your initial reactions to the layout and logical structure of the website? | blah blah blah | blah blah blah | blah blah blah |
+| 1. What are your initial reactions to the layout and logical structure of the website? | logically the arugments flow, only have top 20 universities (more interesting to see top 200 or public vs private universities) -- argument about universities (what if universitites played a bigger role than the cities that they're in ; hold more power than their alumni ;  organize for what university should spend endowment on (divestment focus) --> usful | blah blah blah | blah blah blah |
+|2. What are some of the things that are working about the overall layout/use of color? Do you find the colors to be distracting or do they compliment the story |.   ok      |.   ok     |.       ok |
+|3.  What are some things that are confusing in the layout or use of color that you would want to see improved? |.   ok      |.   ok     |.       ok |
+
 
