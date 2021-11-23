@@ -60,14 +60,13 @@ In designing my user research protocol, I was primarily concerned with three mai
 **Persuasive Effectiveness:** 
 
 7. Is there sufficient evidence presented in the website to support this main point? If not, what additional information would you need for the visualizations to be sufficiently persuasive?
-8. Are there any points where further explanation is needed?
-9. Does the website in its current form inspire you to learn more about college endowments?
-10. Do you feel like you’ve learned something from this website? 
-11. Is there anything that you were hoping to learn through the website that you weren't able to learn, with the current way that the information is provided?
+8. Does the website in its current form inspire you to learn more about college endowments?
+9. Do you feel like you’ve learned something from this website? 
+10. Is there anything that you were hoping to learn through the website that you weren't able to learn, with the current way that the information is provided?
 
 **Overall:**
 
-12. Do you have any final thoughts or suggestions that weren't already covered in the previous questions?
+11. Do you have any final thoughts or suggestions that weren't already covered in the previous questions?
 
   
  
