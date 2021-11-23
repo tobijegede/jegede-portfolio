@@ -10,19 +10,7 @@ https://preview.shorthand.com/jlb44F87EPDEcbQh
 
 
 
-# User Research
-
-## User Research Protocol
-
-
-Your user research protocol should clearly identify the following: 
-
-a. the target audience you hope to reach with your story; 
-b. your approach to identifying representative individuals to interview; 
-c. your interview script; 
-d. the findings from your interviews; and 
-e. changes you plan on implementing to your visualizations next week to address the issues identified. 
-
+# User Research Protocol
 
 ## Target Audience 
 
@@ -77,11 +65,11 @@ The findings for my interview are summarized below:
 
 | Interview Questions| Interviewee #1 <br> Gender: Female <br> Race: White  <br> Age: 26 <br> Years Since College Graduation : 4 <br> Type of College Attended (Public vs Private): Private <br>  State of Residence: PA | Interviewee #2 <br> Gender: Female <br> Race: Black  <br> Age: 25 <br> Years Since College Graduation : 3 <br> Type of College Attended (Public vs Private): Private <br>  State of Residence: NC | Interviewee #3 <br> Gender: Female <br> Race: Black  <br> Age: 27 <br> Years Since College Graduation : 5 <br> Type of College Attended (Public vs Private): Private <br>  State of Residence: IL |
 | --------- | :-------------- | :-------------- |  :------------- |
-| 1. What are your initial reactions to the layout and logical structure of the website? | logically the arugments flow, only have top 20 universities (more interesting to see top 200 or public vs private universities) -- argument about universities (what if universitites played a bigger role than the cities that they're in ; hold more power than their alumni ;  organize for what university should spend endowment on (divestment focus) --> usful | blah blah blah | blah blah blah |
-|2. What are some of the things that are working about the overall layout/use of color? Do you find the colors to be distracting or do they compliment the story | The colors used are good and are not dstracting     |.   ok     |.       ok |
-|3.  What are some things that are confusing in the layout or use of color that you would want to see improved? |  nope (fix capitalization)       |.   ok     |.       ok |
-|4. Are the visualizations clear in what they are showing? If not, what could be improved in the visualizations? |   – in the map, emphasize the city-level information VS state bc it’s unclear what the emphasis should be (making an arugment about state level impact, then give state-level info), (change the title of the map to make it clearer). (Note: Originally the title on the Map was "Top 10 University Endowments & Their Median Incomes", which was a placeholder but also confusing for this user to interpret that "their" was in reference to in this case.    |.   ok     |.       ok |
-|5. Is the story that is being told clear? Are you able to clearly link the sections of the website together through the visualizations?| Yes, the logically flow of the website is clear, and the section headers help with making the story that is told clear  |.   ok     |.       ok |
+| 1. What are your initial reactions to the layout and logical structure of the website? | logically the arugments flow, only have top 20 universities (more interesting to see top 200 or public vs private universities) -- argument about universities (what if universitites played a bigger role than the cities that they're in ; hold more power than their alumni ;  organize for what university should spend endowment on (divestment focus) --> usful | There is a logical flow and how it’s structure; Not too much reading, a lot of visuals; Like “how large is 39 billion part”|  Flow makes a lot of sense; Like the definition of an endowment; The charts and putting it in context (how large is that money is very clear) |
+|2. What are some of the things that are working about the overall layout/use of color? Do you find the colors to be distracting or do they compliment the story | The colors used are good and are not dstracting |  The red in the endowment is a little blurred and hard to read | Also agreed on the changing the colors that are emphasized — advised you to change this to being in orange instead|
+|3.  What are some things that are confusing in the layout or use of color that you would want to see improved? |  nope (fix capitalization)       |.   (See Above)     | (See above)|
+|4. Are the visualizations clear in what they are showing? If not, what could be improved in the visualizations? |   – in the map, emphasize the city-level information VS state bc it’s unclear what the emphasis should be (making an arugment about state level impact, then give state-level info), (change the title of the map to make it clearer). (Note: Originally the title on the Map was "Top 10 University Endowments & Their Median Incomes", which was a placeholder but also confusing for this user to interpret that "their" was in reference to in this case.    | No   | Visualizations = difference between linear and log; For the bar charts in the table, it would be helpful for the bars to include the times GDP inside; Rwanda has a very small GDP vs Harvard’s being too small; Multiple different countries that could be useful —  to show comparisons between (1:1 ratios)  — why Rwanda |
+|5. Is the story that is being told clear? Are you able to clearly link the sections of the website together through the visualizations?| Yes, the logically flow of the website is clear, and the section headers help with making the story that is told clear  | Call to action is clear and the logic is clear     |.       ok |
 |6. From a logical coherence perspective, what parts for improvement do you think should be prioritized?| The map at the end is the part that is still difficult to understand and needs some improvement.  |.   ok     |.       ok |
 |7. Is there sufficient evidence presented in the website to support this main point? If not, What additional information would you need for the visualizations to be sufficiently persuasive?| Similar to the above question, The map at the end is the part that is still difficult to understand and needs some improvement. I think the title needs to be clarified and also the relative median income or other measure to use should be clarified -- i.e. does it make more sense to focus on the city-level median income or on the median income of the state? Typically, universities have an impact beyond the city that they are located in, so perhaps it makes sense to also expand the median income context to cover a larger area than is currently being covered.  |.   ok     |.       ok |
 |8. Does the website in its current form inspire you to learn more about college endowments? | Yes!  |.   ok     |.       ok |
