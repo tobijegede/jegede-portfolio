@@ -48,8 +48,8 @@ In designing my user research protocol, I was primarily concerned with three mai
 **Aesthetics & Layout:**
 
 1. What are your initial reactions to the layout and logical structure of the website?
-2.  What are some of the things that are working about the overall layout/use of color? Do you find the colors to be distracting or do they compliment the story?
-3. What are some things that are confusing in the layout or use of color that you would want to see improved?  ["estemed formal pupil) - nope (fix capitalization)  --]
+2. What are some of the things that are working about the overall layout/use of color? Do you find the colors to be distracting or do they compliment the story?
+3. What are some things that are confusing in the layout or use of color that you would want to see improved?  
 4. Are the visualizations clear in what they are showing? If not, what could be improved in the visualizations?
 
 **Logical Coherence:**
@@ -59,27 +59,15 @@ In designing my user research protocol, I was primarily concerned with three mai
 
 **Persuasive Effectiveness:** 
 
-7. Is there sufficient evidence presented in the website to support this main point? If not, What additional information would you need for the visualizations to be sufficiently persuasive?
-
-- clear linkages
-12. Are there any points where further explanation is needed?
-
-map ()
-
-
-14. Does the website in its current form inspire you to learn more about college endowments?
-15. - yes
-16. Do you feel like you’ve learned something from this website? 
-17. -yes 
-18. Is there anything that you were hoping to learn through the website that you weren't able to learn, with the current way that the information is provided?
-- breakdown endowments are invested (could help to strength the arugment)
+7. Is there sufficient evidence presented in the website to support this main point? If not, what additional information would you need for the visualizations to be sufficiently persuasive?
+8. Are there any points where further explanation is needed?
+9. Does the website in its current form inspire you to learn more about college endowments?
+10. Do you feel like you’ve learned something from this website? 
+11. Is there anything that you were hoping to learn through the website that you weren't able to learn, with the current way that the information is provided?
 
 **Overall:**
 
-15. Do you have any final thoughts or suggestions that weren't already covered in the previous questions?
-
-- could inlcude in the call to action an actual list of nonprofits to donate to and how your donation would be used for the non-profits vs how it could be used for the university's purposes
-
+12. Do you have any final thoughts or suggestions that weren't already covered in the previous questions?
 
   
  
@@ -95,20 +83,12 @@ The findings for my interview are summarized below:
 |3.  What are some things that are confusing in the layout or use of color that you would want to see improved? |  nope (fix capitalization)       |.   ok     |.       ok |
 |4. Are the visualizations clear in what they are showing? If not, what could be improved in the visualizations? |   – in the map, emphasize the city-level information VS state bc it’s unclear what the emphasis should be (making an arugment about state level impact, then give state-level info), (change the title of the map to make it clearer). (Note: Originally the title on the Map was "Top 10 University Endowments & Their Median Incomes", which was a placeholder but also confusing for this user to interpret that "their" was in reference to in this case.    |.   ok     |.       ok |
 |5. Is the story that is being told clear? Are you able to clearly link the sections of the website together through the visualizations?| Yes, the logically flow of the website is clear, and the section headers help with making the story that is told clear  |.   ok     |.       ok |
-|6. From a logical coherence perspective, what parts for improvement do you think should be prioritized?
-?| The map at the end is the part that is still difficult to understand and needs some improvement.  |.   ok     |.       ok |
-|7. Is there sufficient evidence presented in the website to support this main point? If not, What additional information would you need for the visualizations to be sufficiently persuasive?
-| Similar to the above question, The map at the end is the part that is still difficult to understand and needs some improvement. I think the title needs to be clarified and also the relative median income or other measure to use should be clarified -- i.e. does it make more sense to focus on the city-level median income or on the median income of the state? Typically, universities have an impact beyond the city that they are located in, so perhaps it makes sense to also expand the median income context to cover a larger area than is currently being covered.  |.   ok     |.       ok |
-|8. Does the website in its current form inspire you to learn more about college endowments?
-| Yes!  |.   ok     |.       ok |
-|9. Do you feel like you’ve learned something from this website?
-| Yes!  |.   ok     |.       ok |
-
-|10. Is there anything that you were hoping to learn through the website that you weren’t able to learn, with the current way that the information is provided?
-| breakdown endowments are invested (could help to strength the arugment)  |.   ok     |.       ok |
-
-|11. Do you have any final thoughts or suggestions that weren’t already covered in the previous questions?
-| could inlcude in the call to action an actual list of nonprofits to donate to and how your donation would be used for the non-profits vs how it could be used for the university’s purposes  |.   ok     |.       ok |
+|6. From a logical coherence perspective, what parts for improvement do you think should be prioritized?| The map at the end is the part that is still difficult to understand and needs some improvement.  |.   ok     |.       ok |
+|7. Is there sufficient evidence presented in the website to support this main point? If not, What additional information would you need for the visualizations to be sufficiently persuasive?| Similar to the above question, The map at the end is the part that is still difficult to understand and needs some improvement. I think the title needs to be clarified and also the relative median income or other measure to use should be clarified -- i.e. does it make more sense to focus on the city-level median income or on the median income of the state? Typically, universities have an impact beyond the city that they are located in, so perhaps it makes sense to also expand the median income context to cover a larger area than is currently being covered.  |.   ok     |.       ok |
+|8. Does the website in its current form inspire you to learn more about college endowments? | Yes!  |.   ok     |.       ok |
+|9. Do you feel like you’ve learned something from this website? | Yes!  |.   ok     |.       ok |
+|10. Is there anything that you were hoping to learn through the website that you weren’t able to learn, with the current way that the information is provided? | breakdown endowments are invested (could help to strength the arugment)  |.   ok     |.       ok |
+|11. Do you have any final thoughts or suggestions that weren’t already covered in the previous questions? | could inlcude in the call to action an actual list of nonprofits to donate to and how your donation would be used for the non-profits vs how it could be used for the university’s purposes  |.   ok     |.       ok |
 
 
 
