@@ -29,15 +29,15 @@ I am notoriously bad at visualizing data creatively and so, at a minimum, I want
 
 ## Final Project
 
-### Part 1: Storyboarding & Initial Sketches
+### Part 1
 
 [Final Project Part 1: Storyboarding & Initial Sketches](finalprojoverview.md)
 
-### Part 2: Wireframing & User Research
+### Part 2
 
 [Final Project Part 2: Wireframes & User Research](finalprojpart2.md)
 
-### Part 3: Final Website & Reflections
+### Part 3
 
 [Final Project Part 3: Final Website & Reflections](part3.md)
 
