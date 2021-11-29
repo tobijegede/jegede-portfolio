@@ -94,3 +94,7 @@ The findings for my interview are summarized below:
 10. Add "leading text" throughout the website to more explicitly direct the reader through the main points you want to get across.
 11. Add an additional section about how endowment money is spent OR invested. Using the angle of divestment could be a stronger way of showing how large endowments are bad. 
 12. Remove the log/linear option from the grid of charts beacuse it's unclear what additional value is provided by giving the "Log" option.
+
+
+
+[Return to the Home Page](README.md)
