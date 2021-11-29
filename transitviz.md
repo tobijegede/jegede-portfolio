@@ -159,6 +159,10 @@ Taking all of the insight gained from the critique and from feedback to my wiref
 
 One of the difficult things in creating this final visualization was deciding how to reduce the number of colors of the graph. I ultimately settled on doing a comparison of inland vs costal cities, rather than having a different color for each of the cities. 
 
+
+[Return to the Home Page](README.md)
+
+
 ### References
 
 [^1]: https://www.nbcnews.com/news/us-news/pandemic-sunk-mass-transit-use-data-shows-its-slow-recovery-n1274784
@@ -168,5 +172,4 @@ One of the difficult things in creating this final visualization was deciding ho
 
 
 
-[Return to the Home Page](README.md)
 
