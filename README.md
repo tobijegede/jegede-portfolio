@@ -18,8 +18,6 @@ I'm a second-year masters of public policy and data analytics at Carnegie Mellon
 I am notoriously bad at visualizing data creatively and so, at a minimum, I want to be able to better understand how to critique my own work and figure out easy steps for improving how I visualize data through this course. Because working in civic technology and in advocacy more broadly are career goals of mine, being able to translate complex findings in data into a quick visual that is legible to the public is a critical skill I would like to improve upon. I also want to be able to build a portflio of work that shows how I have worked on data visualization tasks. Finally, most of my coursework at CMU has been focused on learning coding languages and machine learning and so I wanted to access the more creative side of my brain by taking this class. Through my work outside of the classroom, I've seen how great coding work can be undermined by poor visualizations and poor storytelling and so I would also like to learn how to become a better visual storyteller with the help of this course. 
 
 # Portfolio
-Here's some of the key components of my portfolio:
-
 
 ### Assignment 2: Visualizing Government Debt
 
@@ -29,14 +27,17 @@ Here's some of the key components of my portfolio:
 
 [Public Transit Ridership Before, During, and After COVID-19 Pandemic](transitviz.md)
 
+## Final Project
 
-# Final Project
-
-### Storyboarding and Draft Ideas
+### Part 1: Storyboarding & Initial Sketches
 
 [Final Project Part 1: Storyboarding & Initial Sketches](finalprojoverview.md)
 
+### Part 2: Wireframing & User Research
+
 [Final Project Part 2: Wireframes & User Research](finalprojpart2.md)
+
+### Part 3: Final Website & Reflections
 
 [Final Project Part 3: Final Website & Reflections](part3.md)
 
