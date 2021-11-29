@@ -97,4 +97,6 @@ The findings for my interview are summarized below:
 
 
 
+[Proceed to Part 3 of my Final Project](part3.md) 
+
 [Return to the Home Page](README.md)
