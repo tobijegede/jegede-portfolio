@@ -98,10 +98,15 @@ I plan on using Shorthand as my implementation medium for this project. I will u
 I plan to use the remaining part of this week to begin actually building out some of the visualizations that I have sketched above, using Flourish. To accomplish this goal, there are some additional data cleaning steps that I need to complete, such as getting all of the years of endowment data into one .csv file. I also want to start incorporating and embedding some of these initial visualizations into Shorthand to start to see how the story that I am trying to communicate is coming togehter. Then, I will spend next week starting some user research and making tweaks to my final website, as needed. Finally, I will use some of the key points in my story arc sketch to begin developing my 1-minute presentation that will occur in 2 weeks.
 
 
+## Next Portion of Final Project
+
+[Proceed to Part 2 of my Final Project](finalprojpart2.md) OR [Return to the Home Page](README.md)
+
+
 ## References
 [^1]: WBUR article about College Donation Inequity & Endowments https://www.wbur.org/cognoscenti/2019/05/07/college-donation-inequality-sylvia-brown-ayele-shakur
 [^2]: https://www.brookings.edu/blog/up-front/2020/07/22/public-colleges-are-the-workhorses-of-middle-class-mobility/ 
 
 
 
-[Return to the Home Page](README.md)
+
