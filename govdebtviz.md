@@ -25,3 +25,5 @@ The last key difference between the first and second visualizations is the addit
 From the visualization below, we can see that, before 2000, most of the top 10 countries' debt to GDP ratios were steadily increasing. Then, from 2000 to about 2007, there was an overall decline in the debt to GDP ratios for the top 10 countries. The other major trend that can be observed from the visualization below is that, prior to 1999, European and American countries dominated the top three positions in terms of Debt to GDP ratios. Then, in 1999, Japan moved up to the first position in the ranking, staying there until 2020.
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/7687960"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+[Return to the Main Page]
