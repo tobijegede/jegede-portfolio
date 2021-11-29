@@ -28,5 +28,7 @@ Here's some of the key components of my portfolio:
 
 [Final Project Part 1: Storyboarding & Initial Sketches](finalprojoverview.md)
 
-[Final Project Part 2](finalprojpart2.md)
+[Final Project Part 2: Wireframes & User Research](finalprojpart2.md)
+
+[Final Project Part 3: Final Website & Reflections](part3.md)
 
