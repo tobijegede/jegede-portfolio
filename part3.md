@@ -1,3 +1,6 @@
+
+[Go Back to Part 2 of my Final Project](finalprojpart2.md)
+
 # Final Project Part #3:
 
 Link to Final Website [https://carnegiemellon.shorthandstories.com/don-t-donate-to-your-alma-mater-an-exploration-of-university-endowments/index.html]
@@ -15,6 +18,6 @@ Include any other information that helps round out your data story. (Part III)
 
 
 
-[Go Back to Part 2 of my Final Project](finalprojpart2.md)
+
 
 [Return to the Home Page](README.md)
