@@ -1,3 +1,7 @@
+
+[Go Back to Part 1 of my Final Project](finalprojoverview.md)
+
+
 # Wireframe/Storyboarding
 
 I completed my storyboarding in Shorthand. My rough outline and storyboarding on Shorthand can be found embedded below: 
@@ -95,7 +99,7 @@ The findings for my interview are summarized below:
 11. Add an additional section about how endowment money is spent OR invested. Using the angle of divestment could be a stronger way of showing how large endowments are bad. 
 12. Remove the log/linear option from the grid of charts beacuse it's unclear what additional value is provided by giving the "Log" option.
 
-[Go Back to Part 1 of my Final Project](finalprojoverview.md)
+
 
 [Proceed to Part 3 of my Final Project](part3.md) 
 
