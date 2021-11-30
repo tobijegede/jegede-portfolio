@@ -1,8 +1,9 @@
 # Final Project Part #3:
 
-Link to Final Website embedding:
+Link to Final Website https://carnegiemellon.shorthandstories.com/don-t-donate-to-your-alma-mater-an-exploration-of-university-endowments/index.html
 
 
+<script src="https://carnegiemellon.shorthandstories.com/don-t-donate-to-your-alma-mater-an-exploration-of-university-endowments/embed.js"></script>
 
 Things to Include for Final Part III write-up:
 
