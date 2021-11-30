@@ -4,15 +4,14 @@
 
 # Previous Parts of the Project
 
-To go back to Part 1 of my project, the initial planning stage of my project, please click this link [here](finalprojectoverview.md).
+To go back to Part 1 of my project, the initial planning stage of my project, please click this link [here](finalprojoverview.md).
 
 To go back to Part 2 of my project, the storboarding phase, please click this link [here](finalprojpart2.md). 
 
 
 # Final Project Part #3:
 
-Link to Final Website [https://carnegiemellon.shorthandstories.com/don-t-donate-to-your-alma-mater-an-exploration-of-university-endowments/index.html]
-
+To access my final website, please click [HERE](https://carnegiemellon.shorthandstories.com/don-t-donate-to-your-alma-mater-an-exploration-of-university-endowments/index.html).
 
 
 ## Things to Include for Final Part III write-up:
