@@ -1,6 +1,13 @@
 
 [Go Back to Part 2 of my Final Project](finalprojpart2.md)
 
+## Things to Include for Final Part III write-up:
+
+- A few paragraphs that reflects on changes you made since the completion of Part II.  Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
+-  ~~Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. (Part III)~~
+- ~~Add a link to your final data story (a direct link to Shorthand / StoryMap / etc.) placed in the final presentation spreadsheet.  Add the link next to your name in the spreadsheet, and update the title to reflect the working title for your presentation.  (Part III)~~
+
+
 
 # Previous Parts of the Project
 
@@ -15,15 +22,18 @@ To access my final website, please click [HERE](https://carnegiemellon.shorthand
 
 # Audience for Project
 
-
-# Summary of Changes From Part 2
-
+I envisioned my audience to be recent college grads, which didn't change from part 2 of my project, but, in reflecting my on my final project, I think that my message is probably most relevant to individuals who attended universities whose endowments were greater than the national average. This is because for universities that are historicall *under-funded* they may be less likely to have the capacity to divest from fossil fuels without harming their bottom line. This is likely less of the case at wealthier universities who are flush with cash.
 
 
+# Major Changes From Part 2
 
-## Things to Change from Part 2 :
+The key changes that I made from Part 2 to Part 3 of my project were the following:
+- Added a consistent color scheme -- used blue for headers
 
-The key improvements needed for my final presentation that I noted from my user research were the following:
+
+In reference to my first key change, I had initially decided to use a bolded, red color for the critical points that I wanted to highlight in my story. However, after consultation with my user research subjects, the majority of them noted that the red color seemed to blur to them and make it hard to read what was on the screen. This informed my decision to use a dull orange color instead of a red color.
+I also used color differences to make a more distinct break between the headers on my website and the informaton. I made all of my headers consist of white on a blue background for logical consistency
+
 
 Fix the colored, bolded parts of the endowment definition and other callouts throughout the storyboard to a dark orange or other non-red color to make the callouts easier to read.
 Fix the map by either eliminating it or selecting a clearer reference/comparison point. Also, add a clearer title to the map.
@@ -38,18 +48,13 @@ Add an additional section about how endowment money is spent OR invested. Using 
 Remove the log/linear option from the grid of charts beacuse it’s unclear what additional value is provided by giving the “Log” option.
 
 
-## Things to Include for Final Part III write-up:
-
-- A few paragraphs that reflects on changes you made since the completion of Part II.  Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
--  Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. (Part III)
-- Add a link to your final data story (a direct link to Shorthand / StoryMap / etc.) placed in the final presentation spreadsheet.  Add the link next to your name in the spreadsheet, and update the title to reflect the working title for your presentation.  (Part III)
 
 
-## Reflections
+## User Insights from Part 2 
 
 In crafting my final presentation, the part that was the hardest was addressing the "so what" portion of my topic. It's one thing to highlight that university endowments, particularly those of the 25 top-ranked universities in the United States, are astronmically high but it is harder to communicate effectively *why* this matters to the average person. My initial plan prior to part 2 was to focus on how large university endowments have a direct impact of the communities in which they reside by looking at university endowments relative to the median income of the zip codes in which they reside. However, when I started to create my visualizations for part 2 of my project, I realized that I wasn't able to tell the story that I wanted to tell because the median incomes were typically fairly high in university zip codes. Through my user research, one of my interviwees made a good point that, historically, university endowment sizes had been critiqued in terms of what they are invested in. This interviewee mentioned provided fossil fuel and apartheid-related divestment campaigns as examples of this existing work. This then prompted me to switch my "so what" portion of my project to focus on divestment instead of the area median income as the central "so what" piece of my project.
 
-## Overall References for my Project
+## References for my Project
 
 - Include all references for materials used.  It's your responsibility to ensure you have permission to use imagery and other assets, and that you use them appropriately.  A reminder to NOT USE COPYRIGHTED MATERIAL - see the library's guide to ensure you are using images correctly.  Make sure to add / update any citations and / or other content that you used to create your data story.  Make sure you have cited external sources correctly.  References should also be clearly identified on your final data story itself.  Review the library's guide if you have questions. (Part III)
 Include any other information that helps round out your data story. (Part III)
@@ -65,5 +70,6 @@ Include any other information that helps round out your data story. (Part III)
 6. Understanding Princeton’s endowment: Long term is the mantra. Princeton University. Retrieved November 30, 2021, from https://www.princeton.edu/news/2021/10/04/understanding-princetons-endowment-long-term-mantra
 7. Understanding-College-and-University-Endowments.pdf. Retrieved November 30, 2021, from https://www.acenet.edu/Documents/Understanding-College-and-University-Endowments.pdf
 
+*Note: The images used in my final project were either pictures that I personally took or from WikiMedia or Pexels*
 
 [Return to the Home Page](README.md)
