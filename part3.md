@@ -1,9 +1,6 @@
 # Final Project Part #3:
 
-Link to Final Website https://carnegiemellon.shorthandstories.com/don-t-donate-to-your-alma-mater-an-exploration-of-university-endowments/index.html
-
-
-<script src="https://carnegiemellon.shorthandstories.com/don-t-donate-to-your-alma-mater-an-exploration-of-university-endowments/embed.js"></script>
+Link to Final Website [https://carnegiemellon.shorthandstories.com/don-t-donate-to-your-alma-mater-an-exploration-of-university-endowments/index.html]
 
 
 
