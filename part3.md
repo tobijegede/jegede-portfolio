@@ -1,5 +1,6 @@
+To go back to Part 1 of my project, the initial planning stage of my project, please click this link [here](finalprojoverview.md).
 
-[Go Back to Part 2 of my Final Project](finalprojpart2.md)
+To go back to Part 2 of my project, the storboarding phase, please click this link [here](finalprojpart2.md). 
 
 ## Things to Include for Final Part III write-up:
 
@@ -9,26 +10,21 @@
 
 
 
-# Previous Parts of the Project
-
-To go back to Part 1 of my project, the initial planning stage of my project, please click this link [here](finalprojoverview.md).
-
-To go back to Part 2 of my project, the storboarding phase, please click this link [here](finalprojpart2.md). 
-
-
 # Accessing My Final Project on Shorthand:
 
 To access my final website, please click [HERE](https://carnegiemellon.shorthandstories.com/don-t-donate-to-your-alma-mater-an-exploration-of-university-endowments/index.html).
 
 # Audience for Project
 
-I envisioned my audience to be recent college grads, which didn't change from part 2 of my project, but, in reflecting my on my final project, I think that my message is probably most relevant to individuals who attended universities whose endowments were greater than the national average. This is because for universities that are historicall *under-funded* they may be less likely to have the capacity to divest from fossil fuels without harming their bottom line. This is likely less of the case at wealthier universities who are flush with cash.
+I envisioned my audience to be recent college grads from American universities. In reflecting my on my final project, I think that my message is probably most relevant to individuals who attended universities whose endowments were greater than the national average. This is because for universities that are historicall *under-funded* they may be less likely to have the capacity to divest from fossil fuels without harming their bottom line. This is likely less of the case at wealthier universities who are flush with cash. Furthermore, in my initial articulation of my audience, I did not specify that I was primarily interested in reaching *American* university graduates because the funding systems for international universities is typically different. I'm not sure how relevant university endowments are for non-American university graduates. This audience selection informed my decisions about my "hook" for my presentation, where I highlihed how my unialama mater frequently contacts me which is something I thought at least some of my audience during my presentation would be able to relate to. This audience selection also framed my call to action, as I tried to narrow my focus to something that individual people could do to make a change, rather than relying on systemic changes like lobbying for Congress to tax university endowments across the board, as my primary call to action.
 
 
 # Major Changes From Part 2
 
 The key changes that I made from Part 2 to Part 3 of my project were the following:
-- Added a consistent color scheme -- used blue for headers
+- Added a consistent color scheme -- used blue for headers and a gray color for the 
+- Eliminated the "Median Income" Comparsion Section And Used a Different "So What" Motivation for University Endowments
+- Made my call to action
 
 
 In reference to my first key change, I had initially decided to use a bolded, red color for the critical points that I wanted to highlight in my story. However, after consultation with my user research subjects, the majority of them noted that the red color seemed to blur to them and make it hard to read what was on the screen. This informed my decision to use a dull orange color instead of a red color.
