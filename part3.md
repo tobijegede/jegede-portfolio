@@ -6,7 +6,7 @@ To go back to Part 2 of my project, the storyboarding phase, please click this l
 
 To access my final website, please click [here](https://carnegiemellon.shorthandstories.com/don-t-donate-to-your-alma-mater-an-exploration-of-university-endowments/index.html).
 
-## Audience for Project
+## Audience for My Project
 
 In reflecting on my final project, I think that my message is probably most relevant to individuals who attended universities whose endowments are greater than the national average. This is because universities that are historically *under-funded* may be less likely to have the capacity to divest from fossil fuels without harming their bottom line. Furthermore, in my initial articulation of my audience, I did not specify that I was primarily interested in reaching *American* university graduates. This specification is important because the funding systems for international universities are typically different and therefore I'm not sure how relevant university endowments are for non-American university graduates. Based on these factors, my key audience was American college grads, particularly those who went universities whose endowments are in the top 25 nationally.
 
