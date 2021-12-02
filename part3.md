@@ -2,17 +2,15 @@ To go back to Part 1 of my project, the initial planning stage, please click thi
 
 To go back to Part 2 of my project, the storyboarding phase, please click this link [here](finalprojpart2.md). 
 
-## Things to Include for Final Part III write-up:
-
-- A few paragraphs that reflects on changes you made since the completion of Part II.  Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
-
 ## Accessing My Final Project on Shorthand:
 
-To access my final website, please click [HERE](https://carnegiemellon.shorthandstories.com/don-t-donate-to-your-alma-mater-an-exploration-of-university-endowments/index.html).
+To access my final website, please click [here](https://carnegiemellon.shorthandstories.com/don-t-donate-to-your-alma-mater-an-exploration-of-university-endowments/index.html).
 
 ## Audience for Project
 
-I envisioned my audience to be recent college grads from American universities. In reflecting my on my final project, I think that my message is probably most relevant to individuals who attended universities whose endowments were greater than the national average. This is because for universities that are historicall *under-funded* they may be less likely to have the capacity to divest from fossil fuels without harming their bottom line. This is likely less of the case at wealthier universities who are flush with cash. Furthermore, in my initial articulation of my audience, I did not specify that I was primarily interested in reaching *American* university graduates because the funding systems for international universities is typically different. I'm not sure how relevant university endowments are for non-American university graduates. This audience selection informed my decisions about my "hook" for my presentation, where I highlihed how my unialama mater frequently contacts me which is something I thought at least some of my audience during my presentation would be able to relate to. This audience selection also framed my call to action, as I tried to narrow my focus to something that individual people could do to make a change, rather than relying on systemic changes like lobbying for Congress to tax university endowments across the board, as my primary call to action.
+In reflecting on my final project, I think that my message is probably most relevant to individuals who attended universities whose endowments are greater than the national average. This is because universities that are historically *under-funded* may be less likely to have the capacity to divest from fossil fuels without harming their bottom line. Furthermore, in my initial articulation of my audience, I did not specify that I was primarily interested in reaching *American* university graduates. This specification is important because the funding systems for international universities is typically different and therefore I'm not sure how relevant university endowments are for non-American university graduates. Based on these factors, my key audience was American college grads, particular those who went universities whose endowments are in the top 25 nationally.
+
+This audience orientation informed my decisions about my "hook" for my presentation and my call to action. Specifically, American college graduates are likely to have had the experience of receiving calls to donate money to their alma maters and, for my call to action, the fossil fuel divesment campaign information includes information mostly about American colleges and universities. Additionally, I tried to narrow my focus in my call to action to something that individual people could do to make a change, rather than suggesting systemic change like a Congressionally-backed tax on university endowments.
 
 
 ## Major Changes From Part 2
