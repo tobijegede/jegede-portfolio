@@ -1,14 +1,10 @@
-To go back to Part 1 of my project, the initial planning stage of my project, please click this link [here](finalprojoverview.md).
+To go back to Part 1 of my project, the initial planning stage, please click this link [here](finalprojoverview.md).
 
-To go back to Part 2 of my project, the storboarding phase, please click this link [here](finalprojpart2.md). 
+To go back to Part 2 of my project, the storyboarding phase, please click this link [here](finalprojpart2.md). 
 
 ## Things to Include for Final Part III write-up:
 
 - A few paragraphs that reflects on changes you made since the completion of Part II.  Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.  Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process. (Part III)
--  ~~Include a link to your updated Github repository that includes a link to your final data story (e.g. a link to your Shorthand / StoryMap or other final project).  Make sure your data story is published and publicly accessible. (Part III)~~
-- ~~Add a link to your final data story (a direct link to Shorthand / StoryMap / etc.) placed in the final presentation spreadsheet.  Add the link next to your name in the spreadsheet, and update the title to reflect the working title for your presentation.  (Part III)~~
-
-
 
 ## Accessing My Final Project on Shorthand:
 
@@ -22,20 +18,24 @@ I envisioned my audience to be recent college grads from American universities. 
 ## Major Changes From Part 2
 
 The key changes that I made from Part 2 to Part 3 of my project were the following:
-- Added a consistent color scheme -- used blue for headers and a gray color for the information/text-heavy sections of my presentation.
-- Eliminated the "Median Income" Comparsion Section And Used a Different "So What" Motivation for University Endowments
-- Made my call to action more individual and connect better to existing work that is being done.
-- Edited the comparsions chart to be a series of infographics instead
+- Added a consistent color scheme 
+- Eliminated the "Median Income" Comparsion Section And Used a Different "So What" Motivating Section
+- Made my call to action more individual and better connected to existing work that is being done
+- Edited the GDP comparsion table to be a series of infographics instead
 - Added leading text throughout the website to direct the user to my key points
 
 
 In reference to my first key change, I had initially decided to use a bolded, red color for the critical points that I wanted to highlight in my story. However, after consultation with my user research subjects, the majority of them noted that the red color seemed to blur to them and make it hard to read what was on the screen. This informed my decision to use a dull orange color instead of a red color to emphasize points throughout my presentation. This added a layer of visual consistency throughout my presentation and added a consistent marker to follow as users work through my website. Furthermore, I also used color differences to make a more distinct break between the headers on my website and the text-heavy sections of my presentation.. I made all of my headers consist of white writing on a blue background for logical consistency and the text-heavy sections were gray sections with black text on top. 
 
-The second major change
 In crafting my final presentation, the part that was the hardest was addressing the "so what" portion of my topic. It's one thing to highlight that university endowments, particularly those of the 25 top-ranked universities in the United States, are astronmically high but it is harder to communicate effectively *why* this matters to the average person. My initial plan prior to part 2 was to focus on how large university endowments have a direct impact of the communities in which they reside by looking at university endowments relative to the median income of the zip codes in which they reside. However, when I started to create my visualizations for part 2 of my project, I realized that I wasn't able to tell the story that I wanted to tell because the median incomes were typically fairly high in university zip codes. Through my user research, one of my interviwees made a good point that, historically, university endowment sizes had been critiqued in terms of what they are invested in. This interviewee mentioned provided fossil fuel and apartheid-related divestment campaigns as examples of this existing work. This then prompted me to switch my "so what" portion of my project to focus on divestment instead of the area median income as the central "so what" piece of my project.
 
+In reference to my third key change, because I was unsure of what my "so what" should be in part 2, I also had an unclear sense of what individuals should do after seeing my presentation. After clarifying my "so what", as mentioned above, I was able to find some links to direct resources that individuals could visit to get involved in divestment campaigns and to a website giving detailed strategies about how to go through the investigative journalism process themselves to unconver insights about their university's endowment.
 
-## Post-Presentation Insight
+In reference to my fourth key change, I initially was comparing about 20 university endowments to the size of Rwanda's GDP. Through user research and personal reflection, I realized that using that GDP as a reference point was fairly random and I also wanted to show multiple degrees of scale to contextualize just how large university endowments are. I took some advice from one my user research interviewees and firstly, reduced the countries I was using for scale to the top 3 university endowments and then compared these endowments to several countries. I also highlighted the population of these countries relative to the student bodies that were at each of the sample universities. I think I was able to get my main comparison point across more clearly through this infographic style and it was ultimatley cleaner to understand than my initial visualization strategy.
+
+Finally, in reference to my fifth key change, I intially only had my visualizations to tell the story that I was trying to tell. Through the critiques that we participated in during one class session, a group member of mind mentioned that it would be helpful to write some brief text sort of **leading** the reader so that I could ensure that they were getting the key points that they were supposed to get from my visualizations directly, rather than having to infer the main point. Adding leading text also helped me to prevent or limit multiple interpretations from coming from my graphs and allowed the readers to see the "right" interpretation that I was hoping would come across.
+
+## Post-Presentation Insights & Reflections
 
 After giving my presentation in class, I made the small change of adding coloring to the title of my bar chart and the grid of line graphs to make it clearer what the colors in the bars referred to, as this was a question I got both in user research portion of Part 2 and during my presentation. This was something that I was initially unsure of how to do in flourish but later discovered how to do it after doing some searching for HTML tutorials. I hope that it is clearer now for the user. Also, one critique I got is that some individuals may not know the different between public and private universities, but given that my assumed audience is American college graduates, my assumption is that those who went through the American college admissions process would understand this common distinction.
 
