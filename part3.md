@@ -2,7 +2,7 @@ To go back to Part 1 of my project, the initial planning stage, please click thi
 
 To go back to Part 2 of my project, the storyboarding phase, please click this link [here](finalprojpart2.md). 
 
-## Accessing My Final Project on Shorthand:
+## Accessing My Final Project on Shorthand
 
 To access my final website, please click [here](https://carnegiemellon.shorthandstories.com/don-t-donate-to-your-alma-mater-an-exploration-of-university-endowments/index.html).
 
