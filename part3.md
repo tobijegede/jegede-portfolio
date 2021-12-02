@@ -42,7 +42,7 @@ Overall, this whole design process made me realize how important honest, specifi
 
 ## References
 
-1. GDP (current US$) | Data. Retrieved November 30, 2021, from https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2020&start=1960&view=chart
+1. GDP (current US$) Data. Retrieved November 30, 2021, from https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2020&start=1960&view=chart
 2. Princeton—News—Endowment Spending Policy Fact Sheet. Retrieved November 30, 2021, from https://pr.princeton.edu/news/01/q1/0127-endowspend.htm
 3. Princeton’s fossil fuel holdings are not just an abstract concept—The Princetonian. Retrieved November 30, 2021, from https://www.dailyprincetonian.com/article/2021/05/princeton-owns-petrotiger-divestment-fossil-fuel-holdings
 4. Protest Divestment and the End of Apartheid. Investopedia. Retrieved November 30, 2021, from https://www.investopedia.com/articles/economics/08/protest-divestment-south-africa.asp
