@@ -10,39 +10,27 @@ To go back to Part 2 of my project, the storboarding phase, please click this li
 
 
 
-# Accessing My Final Project on Shorthand:
+## Accessing My Final Project on Shorthand:
 
 To access my final website, please click [HERE](https://carnegiemellon.shorthandstories.com/don-t-donate-to-your-alma-mater-an-exploration-of-university-endowments/index.html).
 
-# Audience for Project
+## Audience for Project
 
 I envisioned my audience to be recent college grads from American universities. In reflecting my on my final project, I think that my message is probably most relevant to individuals who attended universities whose endowments were greater than the national average. This is because for universities that are historicall *under-funded* they may be less likely to have the capacity to divest from fossil fuels without harming their bottom line. This is likely less of the case at wealthier universities who are flush with cash. Furthermore, in my initial articulation of my audience, I did not specify that I was primarily interested in reaching *American* university graduates because the funding systems for international universities is typically different. I'm not sure how relevant university endowments are for non-American university graduates. This audience selection informed my decisions about my "hook" for my presentation, where I highlihed how my unialama mater frequently contacts me which is something I thought at least some of my audience during my presentation would be able to relate to. This audience selection also framed my call to action, as I tried to narrow my focus to something that individual people could do to make a change, rather than relying on systemic changes like lobbying for Congress to tax university endowments across the board, as my primary call to action.
 
 
-# Major Changes From Part 2
+## Major Changes From Part 2
 
 The key changes that I made from Part 2 to Part 3 of my project were the following:
 - Added a consistent color scheme -- used blue for headers and a gray color for the 
 - Eliminated the "Median Income" Comparsion Section And Used a Different "So What" Motivation for University Endowments
-- Made my call to action
+- Made my call to action more individual and connect better to existing work that is being done.
+- Edited the comparsions chart to be a series of infographics instead
+- Added leading text throughout the website to direct the user to my key points
 
 
 In reference to my first key change, I had initially decided to use a bolded, red color for the critical points that I wanted to highlight in my story. However, after consultation with my user research subjects, the majority of them noted that the red color seemed to blur to them and make it hard to read what was on the screen. This informed my decision to use a dull orange color instead of a red color.
 I also used color differences to make a more distinct break between the headers on my website and the informaton. I made all of my headers consist of white on a blue background for logical consistency
-
-
-Fix the colored, bolded parts of the endowment definition and other callouts throughout the storyboard to a dark orange or other non-red color to make the callouts easier to read.
-Fix the map by either eliminating it or selecting a clearer reference/comparison point. Also, add a clearer title to the map.
-Include links to articles by news organizations showing how endowments are spent/invested OR highlight that this information is typically not disclosed. This was a common critique among the interviewees and so there needs to be some anticipation of this question and some kind of answer provided for the reader, even if it is just that such detailed information does not exist.
-Find potential non-profits or other examples of organizations that readers can donate to instead of giving money to their alma maters.
-In the GDP comparison table, add a label inside of each of the mini bar charts. Also, add additional countries for comparison. Finally, add a comprehensive title to this table. OR Change the GDP comparison table to a series of infographics instead of a table.
-Make the titles for the graphics story points instead of basic descriptions to better highlight the main point of each of the visualizations.
-Adjust the color scheme to potentially use a white background instead of a blue background.
-Reduce the number of calls to action and strengthen the remaining calls to action with a direct link to articles or actual nonprofit organization doing positive work.
-Add “leading text” throughout the website to more explicitly direct the reader through the main points you want to get across.
-Add an additional section about how endowment money is spent OR invested. Using the angle of divestment could be a stronger way of showing how large endowments are bad.
-Remove the log/linear option from the grid of charts beacuse it’s unclear what additional value is provided by giving the “Log” option.
-
 
 
 
@@ -50,13 +38,13 @@ Remove the log/linear option from the grid of charts beacuse it’s unclear what
 
 In crafting my final presentation, the part that was the hardest was addressing the "so what" portion of my topic. It's one thing to highlight that university endowments, particularly those of the 25 top-ranked universities in the United States, are astronmically high but it is harder to communicate effectively *why* this matters to the average person. My initial plan prior to part 2 was to focus on how large university endowments have a direct impact of the communities in which they reside by looking at university endowments relative to the median income of the zip codes in which they reside. However, when I started to create my visualizations for part 2 of my project, I realized that I wasn't able to tell the story that I wanted to tell because the median incomes were typically fairly high in university zip codes. Through my user research, one of my interviwees made a good point that, historically, university endowment sizes had been critiqued in terms of what they are invested in. This interviewee mentioned provided fossil fuel and apartheid-related divestment campaigns as examples of this existing work. This then prompted me to switch my "so what" portion of my project to focus on divestment instead of the area median income as the central "so what" piece of my project.
 
-## References for my Project
 
-- Include all references for materials used.  It's your responsibility to ensure you have permission to use imagery and other assets, and that you use them appropriately.  A reminder to NOT USE COPYRIGHTED MATERIAL - see the library's guide to ensure you are using images correctly.  Make sure to add / update any citations and / or other content that you used to create your data story.  Make sure you have cited external sources correctly.  References should also be clearly identified on your final data story itself.  Review the library's guide if you have questions. (Part III)
-Include any other information that helps round out your data story. (Part III)
+## Post-Presentation Insight
+
+After giving my presentation in class, I made the small change of adding coloring to the title of my bar chart and the grid of line graphs to make it clearer what the colors in the bars referred to, as this was a question I got both in user research portion of Part 2 and during my presentation. This was something that I was initially unsure of how to do in flourish but later discovered how to do it after doing some searching for HTML tutorials. I hope that it is clearer now for the user. Also, one critique I got is that some individuals may not know the different between public and private universities, but given that my assumed audience is American college graduates, my assumption is that those who went through the American college admissions process would understand this common distinction.
 
 
-
+## References
 
 1. GDP (current US$) | Data. Retrieved November 30, 2021, from https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2020&start=1960&view=chart
 2. Princeton—News—Endowment Spending Policy Fact Sheet. Retrieved November 30, 2021, from https://pr.princeton.edu/news/01/q1/0127-endowspend.htm
