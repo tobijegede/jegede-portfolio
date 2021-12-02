@@ -22,26 +22,24 @@ I envisioned my audience to be recent college grads from American universities. 
 ## Major Changes From Part 2
 
 The key changes that I made from Part 2 to Part 3 of my project were the following:
-- Added a consistent color scheme -- used blue for headers and a gray color for the 
+- Added a consistent color scheme -- used blue for headers and a gray color for the information/text-heavy sections of my presentation.
 - Eliminated the "Median Income" Comparsion Section And Used a Different "So What" Motivation for University Endowments
 - Made my call to action more individual and connect better to existing work that is being done.
 - Edited the comparsions chart to be a series of infographics instead
 - Added leading text throughout the website to direct the user to my key points
 
 
-In reference to my first key change, I had initially decided to use a bolded, red color for the critical points that I wanted to highlight in my story. However, after consultation with my user research subjects, the majority of them noted that the red color seemed to blur to them and make it hard to read what was on the screen. This informed my decision to use a dull orange color instead of a red color.
-I also used color differences to make a more distinct break between the headers on my website and the informaton. I made all of my headers consist of white on a blue background for logical consistency
+In reference to my first key change, I had initially decided to use a bolded, red color for the critical points that I wanted to highlight in my story. However, after consultation with my user research subjects, the majority of them noted that the red color seemed to blur to them and make it hard to read what was on the screen. This informed my decision to use a dull orange color instead of a red color to emphasize points throughout my presentation. This added a layer of visual consistency throughout my presentation and added a consistent marker to follow as users work through my website. Furthermore, I also used color differences to make a more distinct break between the headers on my website and the text-heavy sections of my presentation.. I made all of my headers consist of white writing on a blue background for logical consistency and the text-heavy sections were gray sections with black text on top. 
 
-
-
-## User Insights from Part 2 
-
+The second major change
 In crafting my final presentation, the part that was the hardest was addressing the "so what" portion of my topic. It's one thing to highlight that university endowments, particularly those of the 25 top-ranked universities in the United States, are astronmically high but it is harder to communicate effectively *why* this matters to the average person. My initial plan prior to part 2 was to focus on how large university endowments have a direct impact of the communities in which they reside by looking at university endowments relative to the median income of the zip codes in which they reside. However, when I started to create my visualizations for part 2 of my project, I realized that I wasn't able to tell the story that I wanted to tell because the median incomes were typically fairly high in university zip codes. Through my user research, one of my interviwees made a good point that, historically, university endowment sizes had been critiqued in terms of what they are invested in. This interviewee mentioned provided fossil fuel and apartheid-related divestment campaigns as examples of this existing work. This then prompted me to switch my "so what" portion of my project to focus on divestment instead of the area median income as the central "so what" piece of my project.
 
 
 ## Post-Presentation Insight
 
 After giving my presentation in class, I made the small change of adding coloring to the title of my bar chart and the grid of line graphs to make it clearer what the colors in the bars referred to, as this was a question I got both in user research portion of Part 2 and during my presentation. This was something that I was initially unsure of how to do in flourish but later discovered how to do it after doing some searching for HTML tutorials. I hope that it is clearer now for the user. Also, one critique I got is that some individuals may not know the different between public and private universities, but given that my assumed audience is American college graduates, my assumption is that those who went through the American college admissions process would understand this common distinction.
+
+Overall, this whole design process made me realize how important honest, specific feedback can be for the completion of a successful design project. It also highlighted how data can often be a limiting factor in getting across the information that you want to. If there were more robust data sources on university investments, I think my presentation could have been made richer, specifically in the "why does this matter section". If I had more time, this is the part I would want to do a deeper dive on and contribute to or create from scratch of a robust database of this information for future users to use. 
 
 
 ## References
