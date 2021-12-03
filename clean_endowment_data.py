@@ -20,7 +20,7 @@ for i in range(7):
 #retrieve the current directory
 current_directory = os.getcwd()
 
-#helper functions for the cleaning the data
+#helper functions for cleaning the data
 def remove_nans(endow_list):  
     
     no_nans = [x for x in endow_list if pd.isnull(x) == False]
